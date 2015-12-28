@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "download": "^4.4.3"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-locales": "^7.0.4"
+  }
+}

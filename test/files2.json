@@ -1,0 +1,5325 @@
+{
+  "\"Affiliate\"": {
+    "value": "\"Affiliate\"",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "\"AppExchange\"": {
+    "value": "\"AppExchange\"",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "\"Malicious Code\"": {
+    "value": "\"Malicious Code\"",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "\"Purchased Services\"": {
+    "value": "\"Purchased Services\"",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "\"Services\"": {
+    "value": "\"Services\"",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "\"Users\"": {
+    "value": "\"Users\"",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "\"We,\" \"Us\" or \"Our\"": {
+    "value": "\"We,\" \"Us\" or \"Our\"",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "\"You may not access the Services if You are Our direct competitor, except with Our prior written consent. In addition, You may not access the Services for purposes of monitoring their availability, performance or functionality, or for any other benchmarking or competitive purposes.\"": {
+    "value": "\"You may not access the Services if You are Our direct competitor, except with Our prior written consent. In addition, You may not access the Services for purposes of monitoring their availability, performance or functionality, or for any other benchmarking or competitive purposes.\"",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "\"You\" or \"Your\"": {
+    "value": "\"You\" or \"Your\"",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "\"Your Data\"": {
+    "value": "\"Your Data\"",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "'Clock out at' must be after the start of the time entry": {
+    "value": "'Clock out at' must be after the start of the time entry",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "'Clock out' must be set to a time in the past.": {
+    "value": "'Clock out' must be set to a time in the past.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "'Expected Hours Per Week can't be zero'": {
+    "value": "'Expected Hours Per Week can't be zero'",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "'You don't have permission.": {
+    "value": "'You don't have permission.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "(can add, edit, and remove employees and can set their wage, position, etc.)": {
+    "value": "(can add, edit, and remove employees and can set their wage, position, etc.)",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "(can clock in, clock out, and take breaks)": {
+    "value": "(can clock in, clock out, and take breaks)",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "(can create and edit time entries)": {
+    "value": "(can create and edit time entries)",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "(can remove photos or edit notes)": {
+    "value": "(can remove photos or edit notes)",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "*Cost Code #, Description and Unit of Measure are required.": {
+    "value": "*Cost Code #, Description and Unit of Measure are required.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "*Only the first and last names are required.": {
+    "value": "*Only the first and last names are required.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "/hour": {
+    "value": "/hour",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "/month": {
+    "value": "/month",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "/week": {
+    "value": "/week",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "/year": {
+    "value": "/year",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "1 hour": {
+    "value": "1 hour",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "10 hours": {
+    "value": "10 hours",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "11 hours": {
+    "value": "11 hours",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "12 hours": {
+    "value": "12 hours",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "2 hours": {
+    "value": "2 hours",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "3 Parent Projects": {
+    "value": "3 Parent Projects",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "3 hours": {
+    "value": "3 hours",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "4 hours": {
+    "value": "4 hours",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "5 hours": {
+    "value": "5 hours",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "6 hours": {
+    "value": "6 hours",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "7 hours": {
+    "value": "7 hours",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "7477 W. Lake Mead Blvd": {
+    "value": "7477 W. Lake Mead Blvd",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "7th Day Doubletime (wage x 2.0)": {
+    "value": "7th Day Doubletime (wage x 2.0)",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "7th Day Overtime (wage x 1.5)": {
+    "value": "7th Day Overtime (wage x 1.5)",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "7th Day Overtime (wage x 2.0)": {
+    "value": "7th Day Overtime (wage x 2.0)",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "8 hours": {
+    "value": "8 hours",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "9 hours": {
+    "value": "9 hours",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "<b>Manage Company Settings</b> (can manage settings for the whole company)": {
+    "value": "<b>Manage Company Settings</b> (can manage settings for the whole company)",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "<b>Manage Cost Codes</b> (can add, edit, and remove cost codes, and groups)": {
+    "value": "<b>Manage Cost Codes</b> (can add, edit, and remove cost codes, and groups)",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "<b>Manage Employee Groups</b> (can arrange employees into group)": {
+    "value": "<b>Manage Employee Groups</b> (can arrange employees into group)",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "<b>Manage Projects</b> (can add, edit, and remove projects, subprojects, and groups)": {
+    "value": "<b>Manage Projects</b> (can add, edit, and remove projects, subprojects, and groups)",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "<b>View Expenses</b> (can see money spent on projects and paid to employees)": {
+    "value": "<b>View Expenses</b> (can see money spent on projects and paid to employees)",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "A Plan Must Be Selected!": {
+    "value": "A Plan Must Be Selected!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "A report for cost code costs by pay period.": {
+    "value": "A report for cost code costs by pay period.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "A report for employee costs by pay period.": {
+    "value": "A report for employee costs by pay period.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "A report for employee information.": {
+    "value": "A report for employee information.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "A report for employee payroll by pay period.": {
+    "value": "A report for employee payroll by pay period.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "A report for project by employee.": {
+    "value": "A report for project by employee.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "A report for project costs by pay period.": {
+    "value": "A report for project costs by pay period.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "ANY DATA YOU ENTER INTO THE SERVICES, AND ANY CUSTOMIZATIONS MADE TO THE SERVICES BY OR FOR YOU, WILL BE PERMANENTLY LOST\n\t\t\t\t\tIF YOU DISCONTINUE OUR SERVICES AND DO NOT PERFORM FUNCTIONS TO RETIAN YOUR DATA. IF YOU PURCHASE A SERVICE THAT WOULD BE A\n\t\t\t\t\tDOWNGRADE FROM THAT COVERED BY YOUR CURRENT SERVICE, YOU MUST EXPORT YOUR DATA BEFORE THE DOWNGRADE SERVICE GOES INTO EFFECT OR YOUR\n\t\t\t\t\tDATA WILL BE PERMANENTLY LOST. NOTWITHSTANDING SECTION 8 (WARRANTIES AND DISCLAIMERS), BUSYBUSY IS NOT RESPOSIBLE FOR ANY\n\t\t\t\t\tUSER ERROR IN THE EVENT THAT DATA CREATED OR LOST RESULTS IN ANY LEGAL ISSUES OR LAWSUITS.": {
+    "value": "ANY DATA YOU ENTER INTO THE SERVICES, AND ANY CUSTOMIZATIONS MADE TO THE SERVICES BY OR FOR YOU, WILL BE PERMANENTLY LOST\n\t\t\t\t\tIF YOU DISCONTINUE OUR SERVICES AND DO NOT PERFORM FUNCTIONS TO RETIAN YOUR DATA. IF YOU PURCHASE A SERVICE THAT WOULD BE A\n\t\t\t\t\tDOWNGRADE FROM THAT COVERED BY YOUR CURRENT SERVICE, YOU MUST EXPORT YOUR DATA BEFORE THE DOWNGRADE SERVICE GOES INTO EFFECT OR YOUR\n\t\t\t\t\tDATA WILL BE PERMANENTLY LOST. NOTWITHSTANDING SECTION 8 (WARRANTIES AND DISCLAIMERS), BUSYBUSY IS NOT RESPOSIBLE FOR ANY\n\t\t\t\t\tUSER ERROR IN THE EVENT THAT DATA CREATED OR LOST RESULTS IN ANY LEGAL ISSUES OR LAWSUITS.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Account": {
+    "value": "Account",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Account Settings": {
+    "value": "Account Settings",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Acquisition of Non-busybusy.com Products and Services.": {
+    "value": "Acquisition of Non-busybusy.com Products and Services.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Actions": {
+    "value": "Actions",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Add": {
+    "value": "Add",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Add Break": {
+    "value": "Add Break",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Add Card": {
+    "value": "Add Card",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Add Comment": {
+    "value": "Add Comment",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Add Cost Code": {
+    "value": "Add Cost Code",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Add Employee": {
+    "value": "Add Employee",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Add Insurance Class": {
+    "value": "Add Insurance Class",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Add New Wage Change": {
+    "value": "Add New Wage Change",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Add Position": {
+    "value": "Add Position",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Add Project": {
+    "value": "Add Project",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Add Subproject": {
+    "value": "Add Subproject",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Add a Company": {
+    "value": "Add a Company",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Add a description for this note...": {
+    "value": "Add a description for this note...",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Add a photo": {
+    "value": "Add a photo",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Add new group": {
+    "value": "Add new group",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Address": {
+    "value": "Address",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Address 1": {
+    "value": "Address 1",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Address 2": {
+    "value": "Address 2",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Advanced Options": {
+    "value": "Advanced Options",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "All Cost Codes": {
+    "value": "All Cost Codes",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "All Employees": {
+    "value": "All Employees",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "All Projects": {
+    "value": "All Projects",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "All the password fields must be filled out to change a password!": {
+    "value": "All the password fields must be filled out to change a password!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Allow employees to add or link tasks to this project.": {
+    "value": "Allow employees to add or link tasks to this project.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Allow team members to clock in to this project": {
+    "value": "Allow team members to clock in to this project",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Amount": {
+    "value": "Amount",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "An error has occurred": {
+    "value": "An error has occurred",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "An error occurred! Please try again later.": {
+    "value": "An error occurred! Please try again later.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "An unknown error has occurred, please try again later!": {
+    "value": "An unknown error has occurred, please try again later!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Any previously sent emails are no longer valid.": {
+    "value": "Any previously sent emails are no longer valid.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Archive": {
+    "value": "Archive",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Are you sure you want to %@ this?": {
+    "value": "Are you sure you want to %@ this?",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Are you sure you want to archive": {
+    "value": "Are you sure you want to archive",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Are you sure you want to archive the selected projects?": {
+    "value": "Are you sure you want to archive the selected projects?",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Are you sure you want to delete this?": {
+    "value": "Are you sure you want to delete this?",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "As used herein, \"Confidential Information\" means all confidential information disclosed by a party (\"Disclosing Party\") to the other party (\"Receiving Party\"), whether orally or in writing, that is designated as confidential or that reasonably should be understood to be confidential given the nature of the information and the circumstances of disclosure. Your Confidential Information shall include Your Data (with the exception of data entered into other’s business or personal workspaces, as delineated in Section 3.3 above); Our Confidential Information shall include the Services; and Confidential Information of each party shall include the terms and conditions of this Agreement and all Order Forms, as well as business and marketing plans, technology and technical information, product plans and designs, and business processes disclosed by such party. However, Confidential Information (other than Your Data) shall not include any information that (i) is or becomes generally known to the public without breach of any obligation owed to the Disclosing Party, (ii) was known to the Receiving Party prior to its disclosure by the Disclosing Party without breach of any obligation owed to the Disclosing Party, (iii) is received from a third party without breach of any obligation owed to the Disclosing Party, or (iv) was independently developed by the Receiving Party.": {
+    "value": "As used herein, \"Confidential Information\" means all confidential information disclosed by a party (\"Disclosing Party\") to the other party (\"Receiving Party\"), whether orally or in writing, that is designated as confidential or that reasonably should be understood to be confidential given the nature of the information and the circumstances of disclosure. Your Confidential Information shall include Your Data (with the exception of data entered into other’s business or personal workspaces, as delineated in Section 3.3 above); Our Confidential Information shall include the Services; and Confidential Information of each party shall include the terms and conditions of this Agreement and all Order Forms, as well as business and marketing plans, technology and technical information, product plans and designs, and business processes disclosed by such party. However, Confidential Information (other than Your Data) shall not include any information that (i) is or becomes generally known to the public without breach of any obligation owed to the Disclosing Party, (ii) was known to the Receiving Party prior to its disclosure by the Disclosing Party without breach of any obligation owed to the Disclosing Party, (iii) is received from a third party without breach of any obligation owed to the Disclosing Party, or (iv) was independently developed by the Receiving Party.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Back": {
+    "value": "Back",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Beginning": {
+    "value": "Beginning",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Below is an example of some projects.": {
+    "value": "Below is an example of some projects.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Bi-weekly": {
+    "value": "Bi-weekly",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Break Time": {
+    "value": "Break Time",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Break end": {
+    "value": "Break end",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Break start": {
+    "value": "Break start",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Breaks": {
+    "value": "Breaks",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Budget vs Actual": {
+    "value": "Budget vs Actual",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Budgeted": {
+    "value": "Budgeted",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Build Deck": {
+    "value": "Build Deck",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "By using the services, you agree to the terms of this agreement. If you are entering into this agreement on behalf or any other legal entity, you represent that you have the authority to bind that entity to these terms and conditions.": {
+    "value": "By using the services, you agree to the terms of this agreement. If you are entering into this agreement on behalf or any other legal entity, you represent that you have the authority to bind that entity to these terms and conditions.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "By: %@": {
+    "value": "By: %@",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "CONFIDENTIALITY": {
+    "value": "CONFIDENTIALITY",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "CSV": {
+    "value": "CSV",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "CSV Format Guide": {
+    "value": "CSV Format Guide",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "CSV Import": {
+    "value": "CSV Import",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "CSV Import Preview": {
+    "value": "CSV Import Preview",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "California": {
+    "value": "California",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "California Settings": {
+    "value": "California Settings",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Cancel": {
+    "value": "Cancel",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Cancel Signature Request": {
+    "value": "Cancel Signature Request",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Card Number": {
+    "value": "Card Number",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Card Number cannot be blank.": {
+    "value": "Card Number cannot be blank.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Card Number is Invalid": {
+    "value": "Card Number is Invalid",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Card Number is Invalid. Please check your number and try again.": {
+    "value": "Card Number is Invalid. Please check your number and try again.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Card was declined. Please check your card and try again.": {
+    "value": "Card was declined. Please check your card and try again.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Change": {
+    "value": "Change",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Change Collection Project": {
+    "value": "Change Collection Project",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Change Current Overtime": {
+    "value": "Change Current Overtime",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Change Current Wage": {
+    "value": "Change Current Wage",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Change Overtime Period": {
+    "value": "Change Overtime Period",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Change Overtime Rules": {
+    "value": "Change Overtime Rules",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Change Pay Period": {
+    "value": "Change Pay Period",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Change Photo": {
+    "value": "Change Photo",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Choose File": {
+    "value": "Choose File",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Choose a file to upload.": {
+    "value": "Choose a file to upload.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Choose busybusy.qwc downloaded in Step 2": {
+    "value": "Choose busybusy.qwc downloaded in Step 2",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "City": {
+    "value": "City",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "City:": {
+    "value": "City:",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Click save and wait for busybusy Integration Status to say “Connected”.": {
+    "value": "Click save and wait for busybusy Integration Status to say “Connected”.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Click the verification link in the email to get started with busybusy.": {
+    "value": "Click the verification link in the email to get started with busybusy.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Clock In": {
+    "value": "Clock In",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Clock In At": {
+    "value": "Clock In At",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Clock Out": {
+    "value": "Clock Out",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Clock Out At": {
+    "value": "Clock Out At",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Clock in": {
+    "value": "Clock in",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Clock in at": {
+    "value": "Clock in at",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Clock in at must be a time in the past.": {
+    "value": "Clock in at must be a time in the past.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Clock in failed. Please Try again.": {
+    "value": "Clock in failed. Please Try again.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Clock out": {
+    "value": "Clock out",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Clock out at": {
+    "value": "Clock out at",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Close": {
+    "value": "Close",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Close add group": {
+    "value": "Close add group",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Columns": {
+    "value": "Columns",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Company Logo": {
+    "value": "Company Logo",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Company Name": {
+    "value": "Company Name",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Company Position": {
+    "value": "Company Position",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Company Settings": {
+    "value": "Company Settings",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Compelled Disclosure.": {
+    "value": "Compelled Disclosure.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Confidentiality": {
+    "value": "Confidentiality",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Confirm %@": {
+    "value": "Confirm %@",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Confirm Password": {
+    "value": "Confirm Password",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Congratulations!": {
+    "value": "Congratulations!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Connected": {
+    "value": "Connected",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Contact Information": {
+    "value": "Contact Information",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Continue": {
+    "value": "Continue",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Copy project structure from:": {
+    "value": "Copy project structure from:",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Cost": {
+    "value": "Cost",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Cost Code": {
+    "value": "Cost Code",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Cost Code #": {
+    "value": "Cost Code #",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Cost Code Information": {
+    "value": "Cost Code Information",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Cost Code Job Costing": {
+    "value": "Cost Code Job Costing",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Cost Code:": {
+    "value": "Cost Code:",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Cost Codes": {
+    "value": "Cost Codes",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Coupon Code": {
+    "value": "Coupon Code",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Coupon Discount": {
+    "value": "Coupon Discount",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Create Company": {
+    "value": "Create Company",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Create PDF to be Signed": {
+    "value": "Create PDF to be Signed",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Create a new company": {
+    "value": "Create a new company",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Create a row for each of the colored end projects.": {
+    "value": "Create a row for each of the colored end projects.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Created By": {
+    "value": "Created By",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Created by: %@": {
+    "value": "Created by: %@",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Created on: %@": {
+    "value": "Created on: %@",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Credit Card": {
+    "value": "Credit Card",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Current": {
+    "value": "Current",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Current Activity": {
+    "value": "Current Activity",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Current Overtime": {
+    "value": "Current Overtime",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Current Overtime Period": {
+    "value": "Current Overtime Period",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Current Password": {
+    "value": "Current Password",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Current Wage": {
+    "value": "Current Wage",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Custom": {
+    "value": "Custom",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Custom Settings": {
+    "value": "Custom Settings",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Customer": {
+    "value": "Customer",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "DEFINITIONS": {
+    "value": "DEFINITIONS",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Daily Doubletime must be greater than daily overtime!": {
+    "value": "Daily Doubletime must be greater than daily overtime!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Daily Overtime (wage x 1.5)": {
+    "value": "Daily Overtime (wage x 1.5)",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Daily Overtime (wage x 2.0)": {
+    "value": "Daily Overtime (wage x 2.0)",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Daily Time Flag (hours worked until flagged)": {
+    "value": "Daily Time Flag (hours worked until flagged)",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Daily Time Flag (hours worked until flagged):": {
+    "value": "Daily Time Flag (hours worked until flagged):",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Daily and/or Weekly Overtime": {
+    "value": "Daily and/or Weekly Overtime",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Dashboard": {
+    "value": "Dashboard",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Date": {
+    "value": "Date",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Date Range": {
+    "value": "Date Range",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Definition of Confidential Information.": {
+    "value": "Definition of Confidential Information.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Definitions": {
+    "value": "Definitions",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Delete": {
+    "value": "Delete",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Delete Collection": {
+    "value": "Delete Collection",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Delete Comment": {
+    "value": "Delete Comment",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Delete this Collection?": {
+    "value": "Delete this Collection?",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Delete this comment:": {
+    "value": "Delete this comment:",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Deleting Position": {
+    "value": "Deleting Position",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Deleting note card...": {
+    "value": "Deleting note card...",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Description": {
+    "value": "Description",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Details": {
+    "value": "Details",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Device: %@": {
+    "value": "Device: %@",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Disclaimer.": {
+    "value": "Disclaimer.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Doe Residence": {
+    "value": "Doe Residence",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Done": {
+    "value": "Done",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Double Time": {
+    "value": "Double Time",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Doubletime": {
+    "value": "Doubletime",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Downgrade": {
+    "value": "Downgrade",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Downgrade to Free": {
+    "value": "Downgrade to Free",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Downgrading will archive your team, but will allow you to maintain access to the company tools and data.": {
+    "value": "Downgrading will archive your team, but will allow you to maintain access to the company tools and data.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Download": {
+    "value": "Download",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Download and install": {
+    "value": "Download and install",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Download our": {
+    "value": "Download our",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Drag Positions up or down": {
+    "value": "Drag Positions up or down",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Duplicate": {
+    "value": "Duplicate",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Duplicate Project": {
+    "value": "Duplicate Project",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Duration": {
+    "value": "Duration",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "E Street Garage": {
+    "value": "E Street Garage",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "END of User Agreement": {
+    "value": "END of User Agreement",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "EXCEPT AS EXPRESSLY PROVIDED HEREIN, NEITHER PARTY MAKES ANY WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, AND EACH PARTY SPECIFICALLY DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.": {
+    "value": "EXCEPT AS EXPRESSLY PROVIDED HEREIN, NEITHER PARTY MAKES ANY WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, AND EACH PARTY SPECIFICALLY DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING ANY WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Edit": {
+    "value": "Edit",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Edit Break": {
+    "value": "Edit Break",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Edit Card": {
+    "value": "Edit Card",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Edit Company Profile": {
+    "value": "Edit Company Profile",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Edit Cost Code": {
+    "value": "Edit Cost Code",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Edit Current Entry": {
+    "value": "Edit Current Entry",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Edit Date": {
+    "value": "Edit Date",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Edit Details": {
+    "value": "Edit Details",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Edit Insurance Class": {
+    "value": "Edit Insurance Class",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Edit Photo": {
+    "value": "Edit Photo",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Edit Position": {
+    "value": "Edit Position",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Edit Profile": {
+    "value": "Edit Profile",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Edit Project": {
+    "value": "Edit Project",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Edit Project Budget": {
+    "value": "Edit Project Budget",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Edit Project Budgets": {
+    "value": "Edit Project Budgets",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Edit Subscription": {
+    "value": "Edit Subscription",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Edit Time Entries for:": {
+    "value": "Edit Time Entries for:",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Edit Time Entry": {
+    "value": "Edit Time Entry",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Edited break": {
+    "value": "Edited break",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Effective Date": {
+    "value": "Effective Date",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Effective Date:": {
+    "value": "Effective Date:",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Effective Date: %@": {
+    "value": "Effective Date: %@",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Effective Hourly Rate:": {
+    "value": "Effective Hourly Rate:",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Effective as Of:": {
+    "value": "Effective as Of:",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Email": {
+    "value": "Email",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Email must be a vaild email address.": {
+    "value": "Email must be a vaild email address.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Email:": {
+    "value": "Email:",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Employee": {
+    "value": "Employee",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Employee Cost": {
+    "value": "Employee Cost",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Employee ID": {
+    "value": "Employee ID",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Employee Import Error": {
+    "value": "Employee Import Error",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Employee Import Step 1 of 4": {
+    "value": "Employee Import Step 1 of 4",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Employee Import Step 2 of 4": {
+    "value": "Employee Import Step 2 of 4",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Employee Import Step 3 of 4": {
+    "value": "Employee Import Step 3 of 4",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Employee Import Step 4 of 4": {
+    "value": "Employee Import Step 4 of 4",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Employee Information": {
+    "value": "Employee Information",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Employee Job Costing": {
+    "value": "Employee Job Costing",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Employee List": {
+    "value": "Employee List",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Employee Location": {
+    "value": "Employee Location",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Employee Locations": {
+    "value": "Employee Locations",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Employee Payroll Report": {
+    "value": "Employee Payroll Report",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Employee Project": {
+    "value": "Employee Project",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Employee Report": {
+    "value": "Employee Report",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Employee Signature": {
+    "value": "Employee Signature",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Employee Signature Report": {
+    "value": "Employee Signature Report",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Employees": {
+    "value": "Employees",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Enable Cost Codes": {
+    "value": "Enable Cost Codes",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Enable Cost Codes:": {
+    "value": "Enable Cost Codes:",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Enable Paid Breaks": {
+    "value": "Enable Paid Breaks",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "End Break": {
+    "value": "End Break",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "End Time": {
+    "value": "End Time",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "End time must be after the Start Time": {
+    "value": "End time must be after the Start Time",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Ending in %@": {
+    "value": "Ending in %@",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Enter notes here.": {
+    "value": "Enter notes here.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Enter your email": {
+    "value": "Enter your email",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Entries": {
+    "value": "Entries",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Entry": {
+    "value": "Entry",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Entry History": {
+    "value": "Entry History",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Est. Salary": {
+    "value": "Est. Salary",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Estimated Cost": {
+    "value": "Estimated Cost",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Estimated Cost (hourly)": {
+    "value": "Estimated Cost (hourly)",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Estimated Cost (salary)": {
+    "value": "Estimated Cost (salary)",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Estimated Cost of Employee": {
+    "value": "Estimated Cost of Employee",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Estimated Hourly Cost:": {
+    "value": "Estimated Hourly Cost:",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Estimated Total Cost": {
+    "value": "Estimated Total Cost",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Exclusion of Consequential and Related Damages.": {
+    "value": "Exclusion of Consequential and Related Damages.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Exclusive Remedy.": {
+    "value": "Exclusive Remedy.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Exp. Month": {
+    "value": "Exp. Month",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Exp. Year": {
+    "value": "Exp. Year",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Exp:": {
+    "value": "Exp:",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Expected Hours Per Week:": {
+    "value": "Expected Hours Per Week:",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "FEES AND PAYMENT FOR PURCHASED SERVICES": {
+    "value": "FEES AND PAYMENT FOR PURCHASED SERVICES",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "FROM": {
+    "value": "FROM",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Federal Government End Use Provisions.": {
+    "value": "Federal Government End Use Provisions.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Fees and Payment for Purchased Services": {
+    "value": "Fees and Payment for Purchased Services",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Fees for purchased services are posted on the site. When you subscribe to any of these services, you will be asked for a payment method.": {
+    "value": "Fees for purchased services are posted on the site. When you subscribe to any of these services, you will be asked for a payment method.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "File Name": {
+    "value": "File Name",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "File not found, please try again!": {
+    "value": "File not found, please try again!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "First Name": {
+    "value": "First Name",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "First Name is required": {
+    "value": "First Name is required",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "First Name:": {
+    "value": "First Name:",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js",
+      "test/test.js"
+    ]
+  },
+  "Follow Company Settings": {
+    "value": "Follow Company Settings",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "For further assistance please send us a": {
+    "value": "For further assistance please send us a",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Forgot Your Password": {
+    "value": "Forgot Your Password",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Forgot Your Password?": {
+    "value": "Forgot Your Password?",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Format": {
+    "value": "Format",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Foundation": {
+    "value": "Foundation",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Free": {
+    "value": "Free",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Friday": {
+    "value": "Friday",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Full Report": {
+    "value": "Full Report",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "General": {
+    "value": "General",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "General Liability": {
+    "value": "General Liability",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "General Provisions": {
+    "value": "General Provisions",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "General Settings": {
+    "value": "General Settings",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Go off Break": {
+    "value": "Go off Break",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Go on Break": {
+    "value": "Go on Break",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Group Name": {
+    "value": "Group Name",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Hide Details": {
+    "value": "Hide Details",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Hide History": {
+    "value": "Hide History",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Hide wage History": {
+    "value": "Hide wage History",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Hour": {
+    "value": "Hour",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Hourly": {
+    "value": "Hourly",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Hours": {
+    "value": "Hours",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Hours Weekly": {
+    "value": "Hours Weekly",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Hours Worked": {
+    "value": "Hours Worked",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "How often do you process payroll?": {
+    "value": "How often do you process payroll?",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "I agree to the ": {
+    "value": "I agree to the ",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "I already have an account": {
+    "value": "I already have an account",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "I did not receive an email.": {
+    "value": "I did not receive an email.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "I entered the wrong email.": {
+    "value": "I entered the wrong email.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "IN NO EVENT SHALL EITHER PARTY HAVE ANY LIABILITY TO THE OTHER PARTY FOR ANY LOST PROFITS OR REVENUES OR FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, COVER OR PUNITIVE DAMAGES HOWEVER CAUSED, WHETHER IN CONTRACT, TORT OR UNDER ANY OTHER THEORY OF LIABILITY, AND WHETHER OR NOT THE PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THE FOREGOING DISCLAIMER SHALL NOT APPLY TO THE EXTENT PROHIBITED BY APPLICABLE LAW.": {
+    "value": "IN NO EVENT SHALL EITHER PARTY HAVE ANY LIABILITY TO THE OTHER PARTY FOR ANY LOST PROFITS OR REVENUES OR FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, COVER OR PUNITIVE DAMAGES HOWEVER CAUSED, WHETHER IN CONTRACT, TORT OR UNDER ANY OTHER THEORY OF LIABILITY, AND WHETHER OR NOT THE PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THE FOREGOING DISCLAIMER SHALL NOT APPLY TO THE EXTENT PROHIBITED BY APPLICABLE LAW.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "If You install or enable Non-busybusy.com Applications for use\n\t\t\t\twith Services, You acknowledge that We may allow providers of those Non-busybusy.com Applications to access Your Data as required for\n\t\t\t\tthe interoperation of such Services. We shall not be responsible for any disclosure, modification or deletion of\n\t\t\t\tYour Data resulting from any such access.": {
+    "value": "If You install or enable Non-busybusy.com Applications for use\n\t\t\t\twith Services, You acknowledge that We may allow providers of those Non-busybusy.com Applications to access Your Data as required for\n\t\t\t\tthe interoperation of such Services. We shall not be responsible for any disclosure, modification or deletion of\n\t\t\t\tYour Data resulting from any such access.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "If you have any questions or concerns regarding this agreement,": {
+    "value": "If you have any questions or concerns regarding this agreement,",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Import Cost Codes": {
+    "value": "Import Cost Codes",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Import Employees": {
+    "value": "Import Employees",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Import Projects": {
+    "value": "Import Projects",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Importing Projects": {
+    "value": "Importing Projects",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "In such event, damages will be determined by a court of competent jurisdiction or settled by arbitration.": {
+    "value": "In such event, damages will be determined by a court of competent jurisdiction or settled by arbitration.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Indemnification by Us.": {
+    "value": "Indemnification by Us.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Indemnification by You.": {
+    "value": "Indemnification by You.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Install HVAC": {
+    "value": "Install HVAC",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Insurance Class": {
+    "value": "Insurance Class",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Insurance Classes": {
+    "value": "Insurance Classes",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Insurance General Liability Class": {
+    "value": "Insurance General Liability Class",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Insurance Workers' Compensation Class": {
+    "value": "Insurance Workers' Compensation Class",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Integration with Non-busybusy.com Services.": {
+    "value": "Integration with Non-busybusy.com Services.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Intuit Quickbooks": {
+    "value": "Intuit Quickbooks",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Invoice Date": {
+    "value": "Invoice Date",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Invoice History": {
+    "value": "Invoice History",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Invoice Period": {
+    "value": "Invoice Period",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Job Costing": {
+    "value": "Job Costing",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Job Details": {
+    "value": "Job Details",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Keep me logged in": {
+    "value": "Keep me logged in",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "LIMITATION OF LIABILITY": {
+    "value": "LIMITATION OF LIABILITY",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Labor Budget": {
+    "value": "Labor Budget",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Labor Burden": {
+    "value": "Labor Burden",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Labor Burden %": {
+    "value": "Labor Burden %",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Labor Burden:": {
+    "value": "Labor Burden:",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Labor Cost": {
+    "value": "Labor Cost",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Labor Cost Spent": {
+    "value": "Labor Cost Spent",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Labor Hours": {
+    "value": "Labor Hours",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Labor Hours Worked": {
+    "value": "Labor Hours Worked",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Las Vegas, NV 89128-1028": {
+    "value": "Las Vegas, NV 89128-1028",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Last Name": {
+    "value": "Last Name",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Last Name is required": {
+    "value": "Last Name is required",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Last Name:": {
+    "value": "Last Name:",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Limitation of Liability": {
+    "value": "Limitation of Liability",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Limitation of Liability.": {
+    "value": "Limitation of Liability.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Loading...": {
+    "value": "Loading...",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Location": {
+    "value": "Location",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Location Set": {
+    "value": "Location Set",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Log out": {
+    "value": "Log out",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Login": {
+    "value": "Login",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Lost connection to the server, please try again!": {
+    "value": "Lost connection to the server, please try again!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Lot 1": {
+    "value": "Lot 1",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Lot 2": {
+    "value": "Lot 2",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "MUTUAL INDEMNIFICATION": {
+    "value": "MUTUAL INDEMNIFICATION",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Make This My Default Card": {
+    "value": "Make This My Default Card",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Man Hours": {
+    "value": "Man Hours",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Manage Employees for:": {
+    "value": "Manage Employees for:",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Manage Insurance Classes": {
+    "value": "Manage Insurance Classes",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Manage Photos posted by:": {
+    "value": "Manage Photos posted by:",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Manual break": {
+    "value": "Manual break",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Manual time entry": {
+    "value": "Manual time entry",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Mapping": {
+    "value": "Mapping",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Match Payroll Categories": {
+    "value": "Match Payroll Categories",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Member Limit": {
+    "value": "Member Limit",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Message": {
+    "value": "Message",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Misc": {
+    "value": "Misc",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Monday": {
+    "value": "Monday",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Monthly": {
+    "value": "Monthly",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Monthly Billing": {
+    "value": "Monthly Billing",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Move employees, customers, jobs and service items from Quickbooks\n\t\t\t\tto busybusy. Send time entries from busybusy to Quickbooks.": {
+    "value": "Move employees, customers, jobs and service items from Quickbooks\n\t\t\t\tto busybusy. Send time entries from busybusy to Quickbooks.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Move to Group": {
+    "value": "Move to Group",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Must be a number": {
+    "value": "Must be a number",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Must be a whole number": {
+    "value": "Must be a whole number",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Mutual Indemnification": {
+    "value": "Mutual Indemnification",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "NEITHER PARTY'S LIABILITY WITH RESPECT TO ANY SINGLE INCIDENT ARISING OUT OF OR RELATED TO THIS AGREEMENT (WHETHER IN CONTRACT OR TORT OR UNDER ANY OTHER THEORY OF LIABILITY) SHALL EXCEED THE LESSER OF $500,000 OR THE AMOUNT PAID BY YOU HEREUNDER IN THE 12 MONTHS PRECEDING THE INCIDENT, PROVIDED THAT IN NO EVENT SHALL EITHER PARTY’S AGGREGATE LIABILITY ARISING OUT OF OR RELATED TO THIS AGREEMENT (WHETHER IN CONTRACT OR TORT OR UNDER ANY OTHER THEORY OF LIABILITY) EXCEED THE TOTAL AMOUNT PAID BY YOU HEREUNDER. This clause does not apply to instances as defined in Paragraph 6.2 of this agreement, nor if you violate the primary terms of this agreement:": {
+    "value": "NEITHER PARTY'S LIABILITY WITH RESPECT TO ANY SINGLE INCIDENT ARISING OUT OF OR RELATED TO THIS AGREEMENT (WHETHER IN CONTRACT OR TORT OR UNDER ANY OTHER THEORY OF LIABILITY) SHALL EXCEED THE LESSER OF $500,000 OR THE AMOUNT PAID BY YOU HEREUNDER IN THE 12 MONTHS PRECEDING THE INCIDENT, PROVIDED THAT IN NO EVENT SHALL EITHER PARTY’S AGGREGATE LIABILITY ARISING OUT OF OR RELATED TO THIS AGREEMENT (WHETHER IN CONTRACT OR TORT OR UNDER ANY OTHER THEORY OF LIABILITY) EXCEED THE TOTAL AMOUNT PAID BY YOU HEREUNDER. This clause does not apply to instances as defined in Paragraph 6.2 of this agreement, nor if you violate the primary terms of this agreement:",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "NON-BUSYBUSY.COM PROVIDERS": {
+    "value": "NON-BUSYBUSY.COM PROVIDERS",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Name": {
+    "value": "Name",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Name & Email": {
+    "value": "Name & Email",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Name on Card": {
+    "value": "Name on Card",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Nevermind, I remember my password.": {
+    "value": "Nevermind, I remember my password.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "New Note Card": {
+    "value": "New Note Card",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "New Password": {
+    "value": "New Password",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "New Password:": {
+    "value": "New Password:",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "New Position": {
+    "value": "New Position",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "New Time Entry": {
+    "value": "New Time Entry",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "New project name:": {
+    "value": "New project name:",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Next": {
+    "value": "Next",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Next Payment": {
+    "value": "Next Payment",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "No": {
+    "value": "No",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "No changes were made": {
+    "value": "No changes were made",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "No changes were made to the project budget": {
+    "value": "No changes were made to the project budget",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "No failure or delay by a party in exercising any right under this Agreement will operate as a waiver of such right or any other right under this Agreement. In the event any provision of this Agreement is for any reason held to be invalid, illegal or unenforceable in any respect, the remaining provisions of this Agreement will remain in full force and effect to the maximum extent possible. This Agreement constitutes the entire agreement between the parties hereto relating to the subject matter hereof. All prior or contemporaneous agreements or understandings between the parties relating to the subject matter hereof, whether oral or written, are superseded by and merged into this Agreement. No amendment or modification of this Agreement will be valid or binding on the parties unless the same is in writing and executed on behalf of each party by its duly authorized representative.": {
+    "value": "No failure or delay by a party in exercising any right under this Agreement will operate as a waiver of such right or any other right under this Agreement. In the event any provision of this Agreement is for any reason held to be invalid, illegal or unenforceable in any respect, the remaining provisions of this Agreement will remain in full force and effect to the maximum extent possible. This Agreement constitutes the entire agreement between the parties hereto relating to the subject matter hereof. All prior or contemporaneous agreements or understandings between the parties relating to the subject matter hereof, whether oral or written, are superseded by and merged into this Agreement. No amendment or modification of this Agreement will be valid or binding on the parties unless the same is in writing and executed on behalf of each party by its duly authorized representative.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Non-busybusy.com Applications": {
+    "value": "Non-busybusy.com Applications",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Non-busybusy.com Applications and Your Data.": {
+    "value": "Non-busybusy.com Applications and Your Data.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Non-busybusy.com Providers": {
+    "value": "Non-busybusy.com Providers",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "None": {
+    "value": "None",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Not Connected": {
+    "value": "Not Connected",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Not Paid": {
+    "value": "Not Paid",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Note": {
+    "value": "Note",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Notecard": {
+    "value": "Notecard",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Notes": {
+    "value": "Notes",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Notes:": {
+    "value": "Notes:",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Notifications": {
+    "value": "Notifications",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Notify me to clock in": {
+    "value": "Notify me to clock in",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Now click one of the store links below to download the app on your phone.": {
+    "value": "Now click one of the store links below to download the app on your phone.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "O.T. Hours": {
+    "value": "O.T. Hours",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "O.T. Hours (x1.5)": {
+    "value": "O.T. Hours (x1.5)",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "O.T. Hours (x2)": {
+    "value": "O.T. Hours (x2)",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "O.T. Wages (x1.5)": {
+    "value": "O.T. Wages (x1.5)",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "O.T. Wages (x2)": {
+    "value": "O.T. Wages (x2)",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "OT Cost": {
+    "value": "OT Cost",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "OT Hours": {
+    "value": "OT Hours",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "OT Hours (x1.5)": {
+    "value": "OT Hours (x1.5)",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "OT Hours (x2)": {
+    "value": "OT Hours (x2)",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Off": {
+    "value": "Off",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Old Password:": {
+    "value": "Old Password:",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "On - all Team Members have access. Off - only the Team Members specified below have access. (Admins always have access)": {
+    "value": "On - all Team Members have access. Off - only the Team Members specified below have access. (Admins always have access)",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "On your first sync, active employees, customers, projects,\n\t\t\t\t\tand cost codes will be replaced with data imported from Quickbooks.\n\t\t\t\t\tIf you have any questions, please feel free to contact customer service at (855) 287-9287": {
+    "value": "On your first sync, active employees, customers, projects,\n\t\t\t\t\tand cost codes will be replaced with data imported from Quickbooks.\n\t\t\t\t\tIf you have any questions, please feel free to contact customer service at (855) 287-9287",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Open": {
+    "value": "Open",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Open Quickbooks Web Connector and click “Upload Application File”": {
+    "value": "Open Quickbooks Web Connector and click “Upload Application File”",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Others with higher position": {
+    "value": "Others with higher position",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Others with lower position": {
+    "value": "Others with lower position",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Others with same position": {
+    "value": "Others with same position",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Our Protection of Your Data.": {
+    "value": "Our Protection of Your Data.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Our Responsibilities.": {
+    "value": "Our Responsibilities.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Our Warranties.": {
+    "value": "Our Warranties.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Overburden": {
+    "value": "Overburden",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Overtime": {
+    "value": "Overtime",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Overtime Hours": {
+    "value": "Overtime Hours",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Overtime Hours(x1.5)": {
+    "value": "Overtime Hours(x1.5)",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Overtime Hours(x2)": {
+    "value": "Overtime Hours(x2)",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Overtime Period": {
+    "value": "Overtime Period",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Overtime Rules": {
+    "value": "Overtime Rules",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Overtime Rules:": {
+    "value": "Overtime Rules:",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "PROPRIETARY RIGHTS": {
+    "value": "PROPRIETARY RIGHTS",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Paid": {
+    "value": "Paid",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Paid Break": {
+    "value": "Paid Break",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Password": {
+    "value": "Password",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Password is invalid": {
+    "value": "Password is invalid",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Password is invalid.": {
+    "value": "Password is invalid.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Password must contain at a number, a letter, and be more than 6 characters long.": {
+    "value": "Password must contain at a number, a letter, and be more than 6 characters long.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Password must contain at least one number and one letter and be at ": {
+    "value": "Password must contain at least one number and one letter and be at ",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Passwords do not match": {
+    "value": "Passwords do not match",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Pay": {
+    "value": "Pay",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Pay Period": {
+    "value": "Pay Period",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Pay Period Type": {
+    "value": "Pay Period Type",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Pay Period:": {
+    "value": "Pay Period:",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Pay Periods": {
+    "value": "Pay Periods",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Pay Rate:": {
+    "value": "Pay Rate:",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Pay period type not found!": {
+    "value": "Pay period type not found!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Payment Method": {
+    "value": "Payment Method",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Payroll": {
+    "value": "Payroll",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Payroll Rate": {
+    "value": "Payroll Rate",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Payroll Type": {
+    "value": "Payroll Type",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Period Type": {
+    "value": "Period Type",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Period: %@": {
+    "value": "Period: %@",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Phone": {
+    "value": "Phone",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Phone Number": {
+    "value": "Phone Number",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Photo": {
+    "value": "Photo",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Photos": {
+    "value": "Photos",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Please fill out all required fields": {
+    "value": "Please fill out all required fields",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Please fill out all required fields.": {
+    "value": "Please fill out all required fields.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Please fill out the required fields.": {
+    "value": "Please fill out the required fields.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Please pick a different plan or archive": {
+    "value": "Please pick a different plan or archive",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Position": {
+    "value": "Position",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Position must be set before saving": {
+    "value": "Position must be set before saving",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Positions": {
+    "value": "Positions",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Postal Code": {
+    "value": "Postal Code",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Postal Code:": {
+    "value": "Postal Code:",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Prev": {
+    "value": "Prev",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Preview Employees": {
+    "value": "Preview Employees",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Print Report": {
+    "value": "Print Report",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Printable View": {
+    "value": "Printable View",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Profile": {
+    "value": "Profile",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Profile Picture": {
+    "value": "Profile Picture",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Project": {
+    "value": "Project",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Project Details": {
+    "value": "Project Details",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Project Information": {
+    "value": "Project Information",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Project Job Costing": {
+    "value": "Project Job Costing",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Project Lvl 1": {
+    "value": "Project Lvl 1",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Project Lvl 2": {
+    "value": "Project Lvl 2",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Project Lvl 3": {
+    "value": "Project Lvl 3",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Project Lvl 4": {
+    "value": "Project Lvl 4",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Project Lvl 5": {
+    "value": "Project Lvl 5",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Project Lvl 6": {
+    "value": "Project Lvl 6",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Project Lvl 7": {
+    "value": "Project Lvl 7",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Project Number": {
+    "value": "Project Number",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Project Payroll Report": {
+    "value": "Project Payroll Report",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Project Report": {
+    "value": "Project Report",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Project Time Sheet": {
+    "value": "Project Time Sheet",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Project Title": {
+    "value": "Project Title",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Project title": {
+    "value": "Project title",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Project:": {
+    "value": "Project:",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Projects": {
+    "value": "Projects",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Proprietary Rights": {
+    "value": "Proprietary Rights",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Protection of Confidential Information.": {
+    "value": "Protection of Confidential Information.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Provided by": {
+    "value": "Provided by",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Provision of Services": {
+    "value": "Provision of Services",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Quickbooks": {
+    "value": "Quickbooks",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Quickbooks Payroll": {
+    "value": "Quickbooks Payroll",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Quickbooks Web Connector": {
+    "value": "Quickbooks Web Connector",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Re-type Password": {
+    "value": "Re-type Password",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Recorded: %@": {
+    "value": "Recorded: %@",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Reg Time": {
+    "value": "Reg Time",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Reg. Cost": {
+    "value": "Reg. Cost",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Reg. Hours": {
+    "value": "Reg. Hours",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Regular": {
+    "value": "Regular",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Regular Hours": {
+    "value": "Regular Hours",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Regular Time": {
+    "value": "Regular Time",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Regular Wages": {
+    "value": "Regular Wages",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Remaining": {
+    "value": "Remaining",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Remaining Budget": {
+    "value": "Remaining Budget",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Remember your password! You'll need it to log into busybusy.": {
+    "value": "Remember your password! You'll need it to log into busybusy.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Reminders": {
+    "value": "Reminders",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Reminders Enabled": {
+    "value": "Reminders Enabled",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Remove Photo": {
+    "value": "Remove Photo",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Repeat:": {
+    "value": "Repeat:",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Report Setup": {
+    "value": "Report Setup",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Reports": {
+    "value": "Reports",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Request": {
+    "value": "Request",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Require Cost Codes": {
+    "value": "Require Cost Codes",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Require Cost Codes:": {
+    "value": "Require Cost Codes:",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Require Project": {
+    "value": "Require Project",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Require Project:": {
+    "value": "Require Project:",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Reservation of Rights in Services.": {
+    "value": "Reservation of Rights in Services.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Reset Password": {
+    "value": "Reset Password",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Reset Your Password": {
+    "value": "Reset Your Password",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Restrictions.": {
+    "value": "Restrictions.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Return of Your Data.": {
+    "value": "Return of Your Data.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Retype New Password": {
+    "value": "Retype New Password",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Run Report": {
+    "value": "Run Report",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Sample File": {
+    "value": "Sample File",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Saturday": {
+    "value": "Saturday",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Saturday Pay Rate": {
+    "value": "Saturday Pay Rate",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Save": {
+    "value": "Save",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Save Password": {
+    "value": "Save Password",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Save and Close": {
+    "value": "Save and Close",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Saved ": {
+    "value": "Saved ",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Saved employees successfully!": {
+    "value": "Saved employees successfully!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Saving": {
+    "value": "Saving",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Saving Clock In Information": {
+    "value": "Saving Clock In Information",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Scheduled Overtime Change": {
+    "value": "Scheduled Overtime Change",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Scheduled Pay Period Change": {
+    "value": "Scheduled Pay Period Change",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Search": {
+    "value": "Search",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Section 6 (Proprietary Rights), 7 (Confidentiality), 8 (Disclaimer), 9 (Mutual Indemnification), 10 (Limitation of Liability), 11.3 (Return of Your Data), 12, Notices, Governing Law and Jurisdiction and 13 (General Provisions) shall survive any termination or expiration of this Agreement.": {
+    "value": "Section 6 (Proprietary Rights), 7 (Confidentiality), 8 (Disclaimer), 9 (Mutual Indemnification), 10 (Limitation of Liability), 11.3 (Return of Your Data), 12, Notices, Governing Law and Jurisdiction and 13 (General Provisions) shall survive any termination or expiration of this Agreement.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Security Code": {
+    "value": "Security Code",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Select": {
+    "value": "Select",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Select Pay Period": {
+    "value": "Select Pay Period",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Select a Photo": {
+    "value": "Select a Photo",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Select a day": {
+    "value": "Select a day",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Select a group": {
+    "value": "Select a group",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Select a pay period": {
+    "value": "Select a pay period",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Select a weekday": {
+    "value": "Select a weekday",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Select which day of the week you want your workweek to begin. The date you choose is also when this change will take place.": {
+    "value": "Select which day of the week you want your workweek to begin. The date you choose is also when this change will take place.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Select which day of the week you want your workweek to begin:": {
+    "value": "Select which day of the week you want your workweek to begin:",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Self": {
+    "value": "Self",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Semi-Monthly": {
+    "value": "Semi-Monthly",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Semi-monthly": {
+    "value": "Semi-monthly",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Services may be subject to other limitations, such as, for example, limits on disk storage space.": {
+    "value": "Services may be subject to other limitations, such as, for example, limits on disk storage space.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Set Password": {
+    "value": "Set Password",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Seventh Day Doubletime must be less than daily doubletime!": {
+    "value": "Seventh Day Doubletime must be less than daily doubletime!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Show Details": {
+    "value": "Show Details",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Show History": {
+    "value": "Show History",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Sign In": {
+    "value": "Sign In",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Sign in to another account or ": {
+    "value": "Sign in to another account or ",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Signature": {
+    "value": "Signature",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Signed Timecards": {
+    "value": "Signed Timecards",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "SkyView Subdivision": {
+    "value": "SkyView Subdivision",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "SkyView subdiv": {
+    "value": "SkyView subdiv",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Something went wrong, Please try again later.": {
+    "value": "Something went wrong, Please try again later.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Something went wrong. Please try again.": {
+    "value": "Something went wrong. Please try again.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Sorry, this is a premium feature.\n\t\t\tIf you would like to add additional employees, please go to your": {
+    "value": "Sorry, this is a premium feature.\n\t\t\tIf you would like to add additional employees, please go to your",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Sorry, your subscription limit has been reached.\n\t\t\tIf you would like to add additional employees, please go to your": {
+    "value": "Sorry, your subscription limit has been reached.\n\t\t\tIf you would like to add additional employees, please go to your",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Spent": {
+    "value": "Spent",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Standard": {
+    "value": "Standard",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Standard Settings": {
+    "value": "Standard Settings",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Start Time": {
+    "value": "Start Time",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "State": {
+    "value": "State",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "State/Province:": {
+    "value": "State/Province:",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Status": {
+    "value": "Status",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Status:": {
+    "value": "Status:",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Step 1:": {
+    "value": "Step 1:",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Step 2:": {
+    "value": "Step 2:",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Step 3:": {
+    "value": "Step 3:",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Step 4:": {
+    "value": "Step 4:",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Step 5:": {
+    "value": "Step 5:",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Step 6:": {
+    "value": "Step 6:",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Stop Time": {
+    "value": "Stop Time",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Storage Capacity": {
+    "value": "Storage Capacity",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Subject": {
+    "value": "Subject",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Subject to the limited rights expressly granted hereunder, We reserve all rights, title and interest in and to the Services, including all related intellectual property rights. No rights are granted to You hereunder other than as expressly set forth herein.": {
+    "value": "Subject to the limited rights expressly granted hereunder, We reserve all rights, title and interest in and to the Services, including all related intellectual property rights. No rights are granted to You hereunder other than as expressly set forth herein.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Submit": {
+    "value": "Submit",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Subproject Report": {
+    "value": "Subproject Report",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Subproject title": {
+    "value": "Subproject title",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Subprojects": {
+    "value": "Subprojects",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Subscription": {
+    "value": "Subscription",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Subscription Required": {
+    "value": "Subscription Required",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Subtotal": {
+    "value": "Subtotal",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Successfully Deleted!": {
+    "value": "Successfully Deleted!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Successfully Saved": {
+    "value": "Successfully Saved",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Suggestions. We shall have a royalty-free, worldwide, irrevocable, perpetual license to use and incorporate into the Services any suggestions, enhancement requests, recommendations or other feedback provided by You, including Users, relating to the operation of the Services.": {
+    "value": "Suggestions. We shall have a royalty-free, worldwide, irrevocable, perpetual license to use and incorporate into the Services any suggestions, enhancement requests, recommendations or other feedback provided by You, including Users, relating to the operation of the Services.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Summary": {
+    "value": "Summary",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Sunday": {
+    "value": "Sunday",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Sunday Pay Rate": {
+    "value": "Sunday Pay Rate",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Supervisor / Superintendent": {
+    "value": "Supervisor / Superintendent",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Surviving Provisions.": {
+    "value": "Surviving Provisions.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Switch": {
+    "value": "Switch",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Switch Projects": {
+    "value": "Switch Projects",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "TERM AND TERMINATION": {
+    "value": "TERM AND TERMINATION",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "THIS AGREEMENT COVERS YOUR USE OF OUR SERVICES to which you or a third party which will give you access, such as an employer, have subscribed.": {
+    "value": "THIS AGREEMENT COVERS YOUR USE OF OUR SERVICES to which you or a third party which will give you access, such as an employer, have subscribed.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "TO": {
+    "value": "TO",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Table of Contents": {
+    "value": "Table of Contents",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Take me to my account": {
+    "value": "Take me to my account",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Term and Termination": {
+    "value": "Term and Termination",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Term of Agreement.": {
+    "value": "Term of Agreement.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Termination (i) upon 30 days written notice, either party may terminate this agreement.": {
+    "value": "Termination (i) upon 30 days written notice, either party may terminate this agreement.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Thank You": {
+    "value": "Thank You",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "The Admin Position cannot be deleted.": {
+    "value": "The Admin Position cannot be deleted.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "The Receiving Party may disclose Confidential Information of the Disclosing Party if it is compelled by law to do so, provided the Receiving Party gives the Disclosing Party prior notice of such compelled disclosure (to the extent legally permitted) and reasonable assistance, at the Disclosing Party&rsquo;s cost, if the Disclosing Party wishes to contest the disclosure. If the Receiving Party is compelled by law to disclose the Disclosing Party&rsquo;s Confidential Information as part of a civil proceeding to which the Disclosing Party is a party, and the Disclosing Party is not contesting the disclosure, the Disclosing Party will reimburse the Receiving Party for its reasonable cost of compiling and providing secure access to such Confidential Information.": {
+    "value": "The Receiving Party may disclose Confidential Information of the Disclosing Party if it is compelled by law to do so, provided the Receiving Party gives the Disclosing Party prior notice of such compelled disclosure (to the extent legally permitted) and reasonable assistance, at the Disclosing Party&rsquo;s cost, if the Disclosing Party wishes to contest the disclosure. If the Receiving Party is compelled by law to disclose the Disclosing Party&rsquo;s Confidential Information as part of a civil proceeding to which the Disclosing Party is a party, and the Disclosing Party is not contesting the disclosure, the Disclosing Party will reimburse the Receiving Party for its reasonable cost of compiling and providing secure access to such Confidential Information.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "The Receiving Party shall use the same degree of care that it uses to protect the confidentiality of its own confidential information of like kind (but in no event less than reasonable care) (i) not to use any Confidential Information of the Disclosing Party for any purpose outside the scope of this Agreement, and (ii) except as otherwise authorized by the Disclosing Party in writing, to limit access to Confidential Information of the Disclosing Party to those of its and its Affiliates’ employees, contractors and agents who need such access for purposes consistent with this Agreement and who have signed confidentiality agreements with the Receiving Party containing protections no less stringent than those herein. Neither party shall disclose the terms of this Agreement or any Order Form to any third party other than its Affiliates and their legal counsel and accountants without the other party’s prior written consent.": {
+    "value": "The Receiving Party shall use the same degree of care that it uses to protect the confidentiality of its own confidential information of like kind (but in no event less than reasonable care) (i) not to use any Confidential Information of the Disclosing Party for any purpose outside the scope of this Agreement, and (ii) except as otherwise authorized by the Disclosing Party in writing, to limit access to Confidential Information of the Disclosing Party to those of its and its Affiliates’ employees, contractors and agents who need such access for purposes consistent with this Agreement and who have signed confidentiality agreements with the Receiving Party containing protections no less stringent than those herein. Neither party shall disclose the terms of this Agreement or any Order Form to any third party other than its Affiliates and their legal counsel and accountants without the other party’s prior written consent.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "The Services may contain features designed to interoperate with Applications such as\n\t\t\t\tGoogle, Facebook or Twitter. To use such features, You may be required to obtain access to such Applications from their providers.": {
+    "value": "The Services may contain features designed to interoperate with Applications such as\n\t\t\t\tGoogle, Facebook or Twitter. To use such features, You may be required to obtain access to such Applications from their providers.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "The email you provided was not associated with any accounts on busybusy.": {
+    "value": "The email you provided was not associated with any accounts on busybusy.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "The file contents was empty, and cannot be uploaded!": {
+    "value": "The file contents was empty, and cannot be uploaded!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "The file data size did not match the actual file size!": {
+    "value": "The file data size did not match the actual file size!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "The file is too large to upload!": {
+    "value": "The file is too large to upload!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "The file is too large to upload, please try a smaller file!": {
+    "value": "The file is too large to upload, please try a smaller file!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "The file is too large, please try a smaller file!": {
+    "value": "The file is too large, please try a smaller file!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "The file is too small to upload!": {
+    "value": "The file is too small to upload!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "The file type is unsupported! Supported files are: .jpeg, .bmp .png": {
+    "value": "The file type is unsupported! Supported files are: .jpeg, .bmp .png",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "The file upload extension failed!": {
+    "value": "The file upload extension failed!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "The following fields can be imported for cost codes:": {
+    "value": "The following fields can be imported for cost codes:",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "The following fields can be imported for employees:": {
+    "value": "The following fields can be imported for employees:",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "The new password must be different from the old password!": {
+    "value": "The new password must be different from the old password!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "The new passwords do not match!": {
+    "value": "The new passwords do not match!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "The passwords don't match!": {
+    "value": "The passwords don't match!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "The server encountered an error (failed write to disk), please try again!": {
+    "value": "The server encountered an error (failed write to disk), please try again!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "The server encountered an error (tmp folder missing), please try again!": {
+    "value": "The server encountered an error (tmp folder missing), please try again!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "The system has hit an error. Please try again later.": {
+    "value": "The system has hit an error. Please try again later.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "The ticket hash has already been used. Contact your account admin to get a new invatation.": {
+    "value": "The ticket hash has already been used. Contact your account admin to get a new invatation.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "The ticket hash has already been used. You must submit a new password reset request.": {
+    "value": "The ticket hash has already been used. You must submit a new password reset request.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "The username is already in use. Please try again.": {
+    "value": "The username is already in use. Please try again.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "The username or password is incorrect!": {
+    "value": "The username or password is incorrect!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "The username was not found in the system.": {
+    "value": "The username was not found in the system.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "There are no Time Entries for this day!": {
+    "value": "There are no Time Entries for this day!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "There are no changes to save!": {
+    "value": "There are no changes to save!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "There are no time entries in this project during this date range!": {
+    "value": "There are no time entries in this project during this date range!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "There are too many files too upload!": {
+    "value": "There are too many files too upload!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "There was a problem deleting this note card.": {
+    "value": "There was a problem deleting this note card.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "There was a problem processing your payment. Please check your card info and try again.": {
+    "value": "There was a problem processing your payment. Please check your card info and try again.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "There was an error duplicating the project": {
+    "value": "There was an error duplicating the project",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "There was an error in your csv file or the system failed to get some required information from the csv file.": {
+    "value": "There was an error in your csv file or the system failed to get some required information from the csv file.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "There was an error saving the time entry. Please try again.": {
+    "value": "There was an error saving the time entry. Please try again.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "There was an error starting your subscription!": {
+    "value": "There was an error starting your subscription!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "There was an error while verifying your account. Please call customer service at 1-855-287-9287.": {
+    "value": "There was an error while verifying your account. Please call customer service at 1-855-287-9287.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "There was an unknown error, please try again later!": {
+    "value": "There was an unknown error, please try again later!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "There was something wrong with the file.": {
+    "value": "There was something wrong with the file.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "This Agreement commences on the date You accept it and continues until you discontinue use of the services.": {
+    "value": "This Agreement commences on the date You accept it and continues until you discontinue use of the services.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "This Agreement is made subject to and shall be governed by and construed under the laws of the State of Nevada, without regard to conflicts of laws principles. Any legal action or proceeding relating to this Agreement shall be instituted in a state or federal court in Clark County, Nevada, except that injunctive or other equitable relief may be sought from any U.S. court of competent jurisdiction. The User acknowledges that the extent of damages to Us in the event of the breach of any provision of this Agreement by the User would be difficult or impossible to ascertain, and that there will be available no adequate remedy at law in the event of any such breach. The User therefore agrees that in the event it breaches any provision of this Agreement, We will be entitled to seek injunctive or other equitable relief, in addition to any other relief or remedies to which it may be entitled at law or in equity. If any arbitration or litigation is commenced between or among parties to this Agreement or their personal representatives concerning any provisions of this Agreement, or the rights and duties of any person in relation thereto, the court or arbitrator, as the case may be, may award to the party or parties prevailing in such arbitration or litigation, in addition to such other relief as may be granted, a reasonable sum for their attorneys’ fees": {
+    "value": "This Agreement is made subject to and shall be governed by and construed under the laws of the State of Nevada, without regard to conflicts of laws principles. Any legal action or proceeding relating to this Agreement shall be instituted in a state or federal court in Clark County, Nevada, except that injunctive or other equitable relief may be sought from any U.S. court of competent jurisdiction. The User acknowledges that the extent of damages to Us in the event of the breach of any provision of this Agreement by the User would be difficult or impossible to ascertain, and that there will be available no adequate remedy at law in the event of any such breach. The User therefore agrees that in the event it breaches any provision of this Agreement, We will be entitled to seek injunctive or other equitable relief, in addition to any other relief or remedies to which it may be entitled at law or in equity. If any arbitration or litigation is commenced between or among parties to this Agreement or their personal representatives concerning any provisions of this Agreement, or the rights and duties of any person in relation thereto, the court or arbitrator, as the case may be, may award to the party or parties prevailing in such arbitration or litigation, in addition to such other relief as may be granted, a reasonable sum for their attorneys’ fees",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "This Agreement was last updated on July 15, 2013. It is effective between You and Us as of the date of You accepting this Agreement.": {
+    "value": "This Agreement was last updated on July 15, 2013. It is effective between You and Us as of the date of You accepting this Agreement.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "This Process may take up to eight hours.\n\t\t\t\t\tYou will receive an email when further setup is required.": {
+    "value": "This Process may take up to eight hours.\n\t\t\t\t\tYou will receive an email when further setup is required.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "This Section 10 (Mutual Indemnification) states the indemnifying party’s sole liability to, and the indemnified party’s exclusive remedy against, the other party for any type of claim described in this Section.": {
+    "value": "This Section 10 (Mutual Indemnification) states the indemnifying party’s sole liability to, and the indemnified party’s exclusive remedy against, the other party for any type of claim described in this Section.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "This break overlaps an existing break. Please check your start and end times and try again.": {
+    "value": "This break overlaps an existing break. Please check your start and end times and try again.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "This break overlaps another break": {
+    "value": "This break overlaps another break",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "This file has more employees than your subscription allows.": {
+    "value": "This file has more employees than your subscription allows.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "This is a premium feature. To integrate with Quickbooks,\n\t\t\t\tgo to the subsciption tab and select a package with the\n\t\t\t\tappropriate number of employees. Your first 30 days are free.": {
+    "value": "This is a premium feature. To integrate with Quickbooks,\n\t\t\t\tgo to the subsciption tab and select a package with the\n\t\t\t\tappropriate number of employees. Your first 30 days are free.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "This is the address that you must use for any notices to Us.": {
+    "value": "This is the address that you must use for any notices to Us.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "This url has expired or the ticket has already been used to verify this email!": {
+    "value": "This url has expired or the ticket has already been used to verify this email!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "This username is taken. Please choose another.": {
+    "value": "This username is taken. Please choose another.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Thursday": {
+    "value": "Thursday",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Time": {
+    "value": "Time",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Time & a Half": {
+    "value": "Time & a Half",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Time Card Approval": {
+    "value": "Time Card Approval",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Time Card Disclaimer": {
+    "value": "Time Card Disclaimer",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Time Card Disclaimer:": {
+    "value": "Time Card Disclaimer:",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Time Entries": {
+    "value": "Time Entries",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Time Entry": {
+    "value": "Time Entry",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Time Keeping": {
+    "value": "Time Keeping",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Time Spent": {
+    "value": "Time Spent",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Time entry was started in the future:": {
+    "value": "Time entry was started in the future:",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Timecards": {
+    "value": "Timecards",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Title": {
+    "value": "Title",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Today's Breaks": {
+    "value": "Today's Breaks",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Today's Total": {
+    "value": "Today's Total",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Total": {
+    "value": "Total",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Total Budget": {
+    "value": "Total Budget",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Total Cost": {
+    "value": "Total Cost",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Total Doubletime": {
+    "value": "Total Doubletime",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Total Hours": {
+    "value": "Total Hours",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Total Overtime": {
+    "value": "Total Overtime",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Total Overtime (x1.5)": {
+    "value": "Total Overtime (x1.5)",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Total Overtime (x2)": {
+    "value": "Total Overtime (x2)",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Total Regular Time": {
+    "value": "Total Regular Time",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Total Time": {
+    "value": "Total Time",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Total Wages": {
+    "value": "Total Wages",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Total: ": {
+    "value": "Total: ",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Total: %@": {
+    "value": "Total: %@",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Track Paid Breaks:": {
+    "value": "Track Paid Breaks:",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Track Time for:": {
+    "value": "Track Time for:",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Tuesday": {
+    "value": "Tuesday",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Type": {
+    "value": "Type",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Type*": {
+    "value": "Type*",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Type: %@": {
+    "value": "Type: %@",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "USE OF THE SERVICES": {
+    "value": "USE OF THE SERVICES",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "USER AGREEMENT": {
+    "value": "USER AGREEMENT",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Unarchive": {
+    "value": "Unarchive",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Ungroup": {
+    "value": "Ungroup",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Unit of Measure": {
+    "value": "Unit of Measure",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Units of Measure": {
+    "value": "Units of Measure",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Unpaid": {
+    "value": "Unpaid",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Unsigned Timecards": {
+    "value": "Unsigned Timecards",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Update": {
+    "value": "Update",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Update Email": {
+    "value": "Update Email",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Updating your email will replace the email you previously entered when creating your company. Any previously sent email verifications will no longer be valid.": {
+    "value": "Updating your email will replace the email you previously entered when creating your company. Any previously sent email verifications will no longer be valid.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Upgrade": {
+    "value": "Upgrade",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Upload": {
+    "value": "Upload",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Upload Company Photo": {
+    "value": "Upload Company Photo",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Upload Image to New Collection": {
+    "value": "Upload Image to New Collection",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Upon request by You made within 30 days after the effective date of termination of a Purchased Services subscription, We will make available to You for download a file of Your Data along with attachments in their native format. After such 30-day period, We shall have no obligation to maintain or provide any of Your Data and shall thereafter, unless legally prohibited, delete all of Your Data in Our systems or otherwise in Our possession or under Our control.": {
+    "value": "Upon request by You made within 30 days after the effective date of termination of a Purchased Services subscription, We will make available to You for download a file of Your Data along with attachments in their native format. After such 30-day period, We shall have no obligation to maintain or provide any of Your Data and shall thereafter, unless legally prohibited, delete all of Your Data in Our systems or otherwise in Our possession or under Our control.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Usage Limitations.": {
+    "value": "Usage Limitations.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Use of the Services": {
+    "value": "Use of the Services",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Username": {
+    "value": "Username",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Username is required": {
+    "value": "Username is required",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Username must be at least 6 characters with no spaces": {
+    "value": "Username must be at least 6 characters with no spaces",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Username must be at least 6 characters with no spaces.": {
+    "value": "Username must be at least 6 characters with no spaces.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Validating Please Wait...": {
+    "value": "Validating Please Wait...",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Verification Email Resent": {
+    "value": "Verification Email Resent",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "View Entry History": {
+    "value": "View Entry History",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "View PDF": {
+    "value": "View PDF",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "View Wage history": {
+    "value": "View Wage history",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "WARRANTIES AND DISCLAIMERS": {
+    "value": "WARRANTIES AND DISCLAIMERS",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "WHO YOU ARE CONTRACTING WITH, NOTICES, GOVERNING LAW AND JURISDICTION": {
+    "value": "WHO YOU ARE CONTRACTING WITH, NOTICES, GOVERNING LAW AND JURISDICTION",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Wage": {
+    "value": "Wage",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Wage History": {
+    "value": "Wage History",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Wage Rate": {
+    "value": "Wage Rate",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Wage Type:": {
+    "value": "Wage Type:",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Wage/Salary": {
+    "value": "Wage/Salary",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Warning": {
+    "value": "Warning",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Warranties and Disclaimers": {
+    "value": "Warranties and Disclaimers",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "We couldn't find the projects in your CSV file. Please make sure your headers are correct or download our sample CSV from the previous screen.": {
+    "value": "We couldn't find the projects in your CSV file. Please make sure your headers are correct or download our sample CSV from the previous screen.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "We have sent a confirmation email to": {
+    "value": "We have sent a confirmation email to",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "We have sent a new confirmation email to": {
+    "value": "We have sent a new confirmation email to",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "We or third parties may from time to time make available to You\n\t\t\t\tthird-party products or services. Any acquisition by You of such products or services, and any exchange of data between You and any other\n\t\t\t\tentity, is solely between You and the applicable provider. We do not warrant or support non-busybusy.com products or services.": {
+    "value": "We or third parties may from time to time make available to You\n\t\t\t\tthird-party products or services. Any acquisition by You of such products or services, and any exchange of data between You and any other\n\t\t\t\tentity, is solely between You and the applicable provider. We do not warrant or support non-busybusy.com products or services.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "We provide the Services, including related software and technology, for ultimate federal government end use solely in accordance with the following: Government technical data and software rights related to the Services include only those rights customarily provided to the public as defined in this Agreement. This customary commercial license is provided in accordance with FAR 12.211 (Technical Data) and FAR 12.212 (Software) and, for Department of Defense transactions, DFAR 252.227-7015 (Technical Data – Commercial Items) and DFAR 227.7202-3 (Rights in Commercial Computer Software or Computer Software Documentation). If a government agency has a need for rights not conveyed under these terms, it must negotiate with Us to determine if there are acceptable terms for transferring such rights, and a mutually acceptable written addendum specifically conveying such rights must be included in any applicable contract or agreement.": {
+    "value": "We provide the Services, including related software and technology, for ultimate federal government end use solely in accordance with the following: Government technical data and software rights related to the Services include only those rights customarily provided to the public as defined in this Agreement. This customary commercial license is provided in accordance with FAR 12.211 (Technical Data) and FAR 12.212 (Software) and, for Department of Defense transactions, DFAR 252.227-7015 (Technical Data – Commercial Items) and DFAR 227.7202-3 (Rights in Commercial Computer Software or Computer Software Documentation). If a government agency has a need for rights not conveyed under these terms, it must negotiate with Us to determine if there are acceptable terms for transferring such rights, and a mutually acceptable written addendum specifically conveying such rights must be included in any applicable contract or agreement.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "We sent you an email with a link to reset your password.": {
+    "value": "We sent you an email with a link to reset your password.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "We shall defend You against any claim, demand, suit, or proceeding made or brought against You by a third party alleging that the use of the Services as permitted hereunder infringes or misappropriates the intellectual property rights of a third party (a \"Claim Against You\"), and shall indemnify You for any damages, attorney fees and costs finally awarded against You as a result of, and for amounts paid by You under a court-approved settlement of, a Claim Against You; provided that You (a) promptly give Us written notice of the Claim Against You; (b) give Us sole control of the defense and settlement of the Claim Against You (provided that We may not settle any Claim Against You unless the settlement unconditionally releases You of all liability);": {
+    "value": "We shall defend You against any claim, demand, suit, or proceeding made or brought against You by a third party alleging that the use of the Services as permitted hereunder infringes or misappropriates the intellectual property rights of a third party (a \"Claim Against You\"), and shall indemnify You for any damages, attorney fees and costs finally awarded against You as a result of, and for amounts paid by You under a court-approved settlement of, a Claim Against You; provided that You (a) promptly give Us written notice of the Claim Against You; (b) give Us sole control of the defense and settlement of the Claim Against You (provided that We may not settle any Claim Against You unless the settlement unconditionally releases You of all liability);",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "We warrant that (i) We have validly entered into this Agreement and have the legal power to do so, and (ii) We will not transmit Malicious Code to You, provided it is not a breach of this subpart (v) if You or a User uploads a file containing Malicious Code into the Services and later downloads that file containing Malicious Code. For any breach of a warranty above, Your exclusive remedy shall be as provided in Section 11 (Term and Termination).": {
+    "value": "We warrant that (i) We have validly entered into this Agreement and have the legal power to do so, and (ii) We will not transmit Malicious Code to You, provided it is not a breach of this subpart (v) if You or a User uploads a file containing Malicious Code into the Services and later downloads that file containing Malicious Code. For any breach of a warranty above, Your exclusive remedy shall be as provided in Section 11 (Term and Termination).",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "We will (i) provide basic support for the Services to You at no charge (ii) make available to\n\t\t\t\tyou paid services as provided on the website from time to time, for which the charges are explained on the website (iii) use commercially\n\t\t\t\treasonable efforts to make the Services available 24 hours a day, 7 days a week, except for: (a) planned downtime (of which We shall give\n\t\t\t\tat least 8 hours notice, or (b) any unavailability caused by circumstances beyond Our reasonable control, including without limitation,\n\t\t\t\tacts of God, acts of government, floods, fires, earthquakes, civil unrest, acts of terror, strikes or other labor problems (other than\n\t\t\t\tthose involving Our employees), Internet service provider failures or delays, or denial of service attacks, and (iv) provide the\n\t\t\t\tServices only in accordance with applicable laws and government regulations.": {
+    "value": "We will (i) provide basic support for the Services to You at no charge (ii) make available to\n\t\t\t\tyou paid services as provided on the website from time to time, for which the charges are explained on the website (iii) use commercially\n\t\t\t\treasonable efforts to make the Services available 24 hours a day, 7 days a week, except for: (a) planned downtime (of which We shall give\n\t\t\t\tat least 8 hours notice, or (b) any unavailability caused by circumstances beyond Our reasonable control, including without limitation,\n\t\t\t\tacts of God, acts of government, floods, fires, earthquakes, civil unrest, acts of terror, strikes or other labor problems (other than\n\t\t\t\tthose involving Our employees), Internet service provider failures or delays, or denial of service attacks, and (iv) provide the\n\t\t\t\tServices only in accordance with applicable laws and government regulations.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "We will maintain appropriate administrative, physical, and technical safeguards for\n\t\t\t\tprotection of the security, confidentiality and integrity of Your Data. We shall not (a) modify Your Data, (b) disclose Your Data except\n\t\t\t\tas compelled by law in accordance with Section 8.3 (Compelled Disclosure) or as expressly permitted in writing by You, or (c) access Your\n\t\t\t\tData except to provide the Services and prevent or address service or technical problems, or at Your request in connection with\n\t\t\t\tcustomer support matters.": {
+    "value": "We will maintain appropriate administrative, physical, and technical safeguards for\n\t\t\t\tprotection of the security, confidentiality and integrity of Your Data. We shall not (a) modify Your Data, (b) disclose Your Data except\n\t\t\t\tas compelled by law in accordance with Section 8.3 (Compelled Disclosure) or as expressly permitted in writing by You, or (c) access Your\n\t\t\t\tData except to provide the Services and prevent or address service or technical problems, or at Your request in connection with\n\t\t\t\tcustomer support matters.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "We will make the Services available to You as they become available as for which You have subscribed. This includes access to the Free Services.\n\t\t\tOnce You have opened an account, you can open a business or personal workspaces and give access to others to operate within it.\n\t\t\tAs additional features are developed within the subscription area that You have purchased, You will be given access for your business\n\t\t\tpurposes. As additional subscription services are developed, You will be advised that the same are available, and You may expand your\n\t\t\tsubscription to include such services. In the event that you discontinue any services with Us, you will be given notice of a timeframe during\n\t\t\twhich You may capture any data that You have placed in the system if you do not desire to continue with the paid services. Your use hereunder are\n\t\t\tneither contingent on the delivery of any future functionality or features nor dependent on any oral or written public comments made by Us regarding future functionality or features.": {
+    "value": "We will make the Services available to You as they become available as for which You have subscribed. This includes access to the Free Services.\n\t\t\tOnce You have opened an account, you can open a business or personal workspaces and give access to others to operate within it.\n\t\t\tAs additional features are developed within the subscription area that You have purchased, You will be given access for your business\n\t\t\tpurposes. As additional subscription services are developed, You will be advised that the same are available, and You may expand your\n\t\t\tsubscription to include such services. In the event that you discontinue any services with Us, you will be given notice of a timeframe during\n\t\t\twhich You may capture any data that You have placed in the system if you do not desire to continue with the paid services. Your use hereunder are\n\t\t\tneither contingent on the delivery of any future functionality or features nor dependent on any oral or written public comments made by Us regarding future functionality or features.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "We will try to match employee data between busybusy and Quickbooks.\n\t\t\t\t\t\tBefore syncing make sure first and last names are spelled the same in both programs.": {
+    "value": "We will try to match employee data between busybusy and Quickbooks.\n\t\t\t\t\t\tBefore syncing make sure first and last names are spelled the same in both programs.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Wednesday": {
+    "value": "Wednesday",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Weekly": {
+    "value": "Weekly",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Weekly Overtime (wage x 1.5)": {
+    "value": "Weekly Overtime (wage x 1.5)",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "What day does your monthly pay period begin?": {
+    "value": "What day does your monthly pay period begin?",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "What is your projected man hours for this project?": {
+    "value": "What is your projected man hours for this project?",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "What is your projected total budget for this project?": {
+    "value": "What is your projected total budget for this project?",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "What two days does your semi-monthly pay period begin?": {
+    "value": "What two days does your semi-monthly pay period begin?",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "What type of break?": {
+    "value": "What type of break?",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "What weekday does your bi-weekly pay period begin?": {
+    "value": "What weekday does your bi-weekly pay period begin?",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "What weekday does your weekly pay period begin?": {
+    "value": "What weekday does your weekly pay period begin?",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "When would you like this change to take effect?": {
+    "value": "When would you like this change to take effect?",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Who You Are Contracting With, Notices, Governing Law and Jurisdiction": {
+    "value": "Who You Are Contracting With, Notices, Governing Law and Jurisdiction",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Worked": {
+    "value": "Worked",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Worker's Compensation": {
+    "value": "Worker's Compensation",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Workers Compensation": {
+    "value": "Workers Compensation",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Workers' Compensation": {
+    "value": "Workers' Compensation",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Yearly": {
+    "value": "Yearly",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Yes": {
+    "value": "Yes",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "You are about to downgrade your subscription": {
+    "value": "You are about to downgrade your subscription",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "You are contracting with busybusy, Inc, a Nevada Corporation, whose address is:": {
+    "value": "You are contracting with busybusy, Inc, a Nevada Corporation, whose address is:",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "You can only view the Admin Position. Changes will not be saved.": {
+    "value": "You can only view the Admin Position. Changes will not be saved.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "You can't save an overtime period for more than 90 days ago.": {
+    "value": "You can't save an overtime period for more than 90 days ago.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "You don't have permission.": {
+    "value": "You don't have permission.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "You may not access the Services if You are Our direct competitor, except with Our prior written consent. In addition, You may not access the Services for purposes of monitoring their availability, performance or functionality, or for any other benchmarking or competitive purposes.": {
+    "value": "You may not access the Services if You are Our direct competitor, except with Our prior written consent. In addition, You may not access the Services for purposes of monitoring their availability, performance or functionality, or for any other benchmarking or competitive purposes.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "You must accept the terms and conditions!": {
+    "value": "You must accept the terms and conditions!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "You must fill in the required fields": {
+    "value": "You must fill in the required fields",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "You must provide a company name!": {
+    "value": "You must provide a company name!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "You must provide a first name!": {
+    "value": "You must provide a first name!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "You must provide a last name!": {
+    "value": "You must provide a last name!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "You must provide a project title.": {
+    "value": "You must provide a project title.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "You must provide a title for this insurance class": {
+    "value": "You must provide a title for this insurance class",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "You must provide a username and password!": {
+    "value": "You must provide a username and password!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "You must provide a username!": {
+    "value": "You must provide a username!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "You must provide an email to reset your password.": {
+    "value": "You must provide an email to reset your password.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "You must provide an email!": {
+    "value": "You must provide an email!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "You must select a later date": {
+    "value": "You must select a later date",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "You must select a later date!": {
+    "value": "You must select a later date!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "You must select an insurance type": {
+    "value": "You must select an insurance type",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "You must set all payroll categories before continuing.": {
+    "value": "You must set all payroll categories before continuing.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "You shall (i) be responsible for Users’ compliance with this Agreement. This means that\n\t\t\t\tif You create a business or personal workspace for others to interact on, each of them must open an account, and be\n\t\t\t\tresponsible for compliance with these Terms and Conditions, (ii) be responsible for the accuracy, quality and legality of Your Data and\n\t\t\t\tof the means by which You acquired Your Data, (iii) use commercially reasonable efforts to prevent unauthorized access to or use of the\n\t\t\t\tServices, and notify Us promptly of any such unauthorized access or use, and (iv) use the Services only in accordance with the\n\t\t\t\tinformation presented on the website, any User Guide and applicable laws and government regulations. You shall not (a) make the Services\n\t\t\t\tavailable to anyone other than Users, (b) sell, resell, rent or lease the Services, (c) use the Services to store or transmit infringing,\n\t\t\t\tlibelous, or otherwise unlawful or tortious material, or to store or transmit material in violation of third-party privacy rights, (d) use\n\t\t\t\tthe Services to store or transmit Malicious Code, (e) interfere with or disrupt the integrity or performance of the Services or third-party\n\t\t\t\tdata contained therein, or (f) attempt to gain unauthorized access to the Services or their related systems or networks. You must advise\n\t\t\t\tUsers on any business workspace which you create, that when Users interface in that business workspace, enter time, upload pictures,\n\t\t\t\tor post any other data, that You will be collecting that data and using it for analysis, trending, other business purposes, and\n\t\t\t\tincluding GPS (global positioning system) stamping.": {
+    "value": "You shall (i) be responsible for Users’ compliance with this Agreement. This means that\n\t\t\t\tif You create a business or personal workspace for others to interact on, each of them must open an account, and be\n\t\t\t\tresponsible for compliance with these Terms and Conditions, (ii) be responsible for the accuracy, quality and legality of Your Data and\n\t\t\t\tof the means by which You acquired Your Data, (iii) use commercially reasonable efforts to prevent unauthorized access to or use of the\n\t\t\t\tServices, and notify Us promptly of any such unauthorized access or use, and (iv) use the Services only in accordance with the\n\t\t\t\tinformation presented on the website, any User Guide and applicable laws and government regulations. You shall not (a) make the Services\n\t\t\t\tavailable to anyone other than Users, (b) sell, resell, rent or lease the Services, (c) use the Services to store or transmit infringing,\n\t\t\t\tlibelous, or otherwise unlawful or tortious material, or to store or transmit material in violation of third-party privacy rights, (d) use\n\t\t\t\tthe Services to store or transmit Malicious Code, (e) interfere with or disrupt the integrity or performance of the Services or third-party\n\t\t\t\tdata contained therein, or (f) attempt to gain unauthorized access to the Services or their related systems or networks. You must advise\n\t\t\t\tUsers on any business workspace which you create, that when Users interface in that business workspace, enter time, upload pictures,\n\t\t\t\tor post any other data, that You will be collecting that data and using it for analysis, trending, other business purposes, and\n\t\t\t\tincluding GPS (global positioning system) stamping.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "You shall defend Us against any claim, demand, suit or proceeding made or brought against Us by a third party alleging that Your Data, or Your use of the Services in breach of this Agreement, infringes or misappropriates the intellectual property rights of a third party or violates applicable law (a \"Claim Against Us\"), and shall indemnify Us for any damages, attorney fees and costs finally awarded against Us as a result of, or for any amounts paid by Us under a court-approved settlement of, a Claim Against Us; provided that We (a) promptly give You written notice of the Claim Against Us; (b) give You sole control of the defense and settlement of the Claim Against Us (provided that You may not settle any Claim Against Us unless the settlement unconditionally releases Us of all liability); and (c) provide to You all reasonable assistance, at Your expense.": {
+    "value": "You shall defend Us against any claim, demand, suit or proceeding made or brought against Us by a third party alleging that Your Data, or Your use of the Services in breach of this Agreement, infringes or misappropriates the intellectual property rights of a third party or violates applicable law (a \"Claim Against Us\"), and shall indemnify Us for any damages, attorney fees and costs finally awarded against Us as a result of, or for any amounts paid by Us under a court-approved settlement of, a Claim Against Us; provided that We (a) promptly give You written notice of the Claim Against Us; (b) give You sole control of the defense and settlement of the Claim Against Us (provided that You may not settle any Claim Against Us unless the settlement unconditionally releases Us of all liability); and (c) provide to You all reasonable assistance, at Your expense.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "You shall not (i) permit any third party to access the Services except as permitted herein, (ii) create derivate works based on the Services except as authorized herein, (iii) copy, frame or mirror any part or content of the Services, other than copying or framing on Your own intranets or otherwise for Your own internal business purposes, (iv) reverse engineer the Services, or (v) access the Services in order to (a) build a competitive product or service, or (b) copy any features, functions or graphics of the Services.": {
+    "value": "You shall not (i) permit any third party to access the Services except as permitted herein, (ii) create derivate works based on the Services except as authorized herein, (iii) copy, frame or mirror any part or content of the Services, other than copying or framing on Your own intranets or otherwise for Your own internal business purposes, (iv) reverse engineer the Services, or (v) access the Services in order to (a) build a competitive product or service, or (b) copy any features, functions or graphics of the Services.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "You warrant that You have validly entered into this Agreement and have the legal power to do so.": {
+    "value": "You warrant that You have validly entered into this Agreement and have the legal power to do so.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Your Applications and Code. If You, a third party acting on Your behalf, or a User creates applications or program code using the Services, You authorize Us to host, copy, transmit, display and adapt such applications and program code, solely as necessary for Us to provide the Services in accordance with this Agreement. Subject to the above, We acquire no right, title or interest from You or Your licensors under this Agreement in or to such applications or program code, including any intellectual property rights therein.": {
+    "value": "Your Applications and Code. If You, a third party acting on Your behalf, or a User creates applications or program code using the Services, You authorize Us to host, copy, transmit, display and adapt such applications and program code, solely as necessary for Us to provide the Services in accordance with this Agreement. Subject to the above, We acquire no right, title or interest from You or Your licensors under this Agreement in or to such applications or program code, including any intellectual property rights therein.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Your Data. Subject to the limited rights granted by You hereunder, We acquire no right, title or interest from You or Your licensors under this Agreement in or to Your Data, including any intellectual property rights therein.": {
+    "value": "Your Data. Subject to the limited rights granted by You hereunder, We acquire no right, title or interest from You or Your licensors under this Agreement in or to Your Data, including any intellectual property rights therein.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Your File Headers": {
+    "value": "Your File Headers",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Your Responsibilities.": {
+    "value": "Your Responsibilities.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Your Warranties.": {
+    "value": "Your Warranties.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Your company account has been created.": {
+    "value": "Your company account has been created.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Your current employee count is above the limit for this subscription.": {
+    "value": "Your current employee count is above the limit for this subscription.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Your data should follow the same format.": {
+    "value": "Your data should follow the same format.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Your email has been verified!": {
+    "value": "Your email has been verified!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Your password has been reset!": {
+    "value": "Your password has been reset!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Your passwords do not match!": {
+    "value": "Your passwords do not match!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "after": {
+    "value": "after",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "and": {
+    "value": "and",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "and (c) provide to Us all reasonable assistance, at Our expense. In the event of a Claim Against You, or if We reasonably believe the Services may infringe or misappropriate, We may in Our discretion and at no cost to You (i) modify the Services so that they no longer infringe or misappropriate, without breaching Our warranties under “Our Warranties” above, or (ii) obtain a license for Your continued use of the Services in accordance with this Agreement.": {
+    "value": "and (c) provide to Us all reasonable assistance, at Our expense. In the event of a Claim Against You, or if We reasonably believe the Services may infringe or misappropriate, We may in Our discretion and at no cost to You (i) modify the Services so that they no longer infringe or misappropriate, without breaching Our warranties under “Our Warranties” above, or (ii) obtain a license for Your continued use of the Services in accordance with this Agreement.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "and try again.": {
+    "value": "and try again.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "break": {
+    "value": "break",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "busybusy Headers": {
+    "value": "busybusy Headers",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "busybusy Payroll": {
+    "value": "busybusy Payroll",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "busybusy has three payroll categories: Regular Time, Time &amp; a Half and Double Time.\n\t\t\t\t\t\tPlease match the appropriate Quickbooks payroll categroies with the corresponding busybusy payroll\n\t\t\t\t\t\tcategories.": {
+    "value": "busybusy has three payroll categories: Regular Time, Time &amp; a Half and Double Time.\n\t\t\t\t\t\tPlease match the appropriate Quickbooks payroll categroies with the corresponding busybusy payroll\n\t\t\t\t\t\tcategories.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "busybusy uses a hierarchical project structure. Download this": {
+    "value": "busybusy uses a hierarchical project structure. Download this",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "clock outs failed because the end time is in the future.": {
+    "value": "clock outs failed because the end time is in the future.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "clock outs failed because the end time was before the start time.": {
+    "value": "clock outs failed because the end time was before the start time.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "clocked-in": {
+    "value": "clocked-in",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "cost codes successfully!": {
+    "value": "cost codes successfully!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "ending in:": {
+    "value": "ending in:",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "errorMessage": {
+    "value": "errorMessage",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "file for Quickbooks Web Connector.": {
+    "value": "file for Quickbooks Web Connector.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "go back": {
+    "value": "go back",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "hour": {
+    "value": "hour",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "hours": {
+    "value": "hours",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "hrs": {
+    "value": "hrs",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "hrs ": {
+    "value": "hrs ",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "hrs /week": {
+    "value": "hrs /week",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "least 6 characters long. Password should contain at least one of these ": {
+    "value": "least 6 characters long. Password should contain at least one of these ",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "less than $1": {
+    "value": "less than $1",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "less than 1 hour": {
+    "value": "less than 1 hour",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "means Services that You or Your affiliates, agents, employers,\n\t\t\t\tconsultants, contractors, or other 3rd parties which will give You access, purchase from busybusy.com.": {
+    "value": "means Services that You or Your affiliates, agents, employers,\n\t\t\t\tconsultants, contractors, or other 3rd parties which will give You access, purchase from busybusy.com.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "means You, the company or other legal entity for which you are accepting this\n\t\t\t\tAgreement, and Affiliates, employees, agents, consultants, contractors or other third parties who You give access to, for that company or entity.": {
+    "value": "means You, the company or other legal entity for which you are accepting this\n\t\t\t\tAgreement, and Affiliates, employees, agents, consultants, contractors or other third parties who You give access to, for that company or entity.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "means all electronic data or information submitted by You to the Services.": {
+    "value": "means all electronic data or information submitted by You to the Services.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "means any entity which directly or indirectly controls,\n\t\t\t\tis controlled by, or is under common control with the subject entity. Control, for purposes of this definition,\n\t\t\t\tmeans direct or indirect ownership or control of more than 50% of the voting interests of the subject entity.": {
+    "value": "means any entity which directly or indirectly controls,\n\t\t\t\tis controlled by, or is under common control with the subject entity. Control, for purposes of this definition,\n\t\t\t\tmeans direct or indirect ownership or control of more than 50% of the voting interests of the subject entity.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "means individuals who are authorized by You to use the Services, for whom subscriptions to a\n\t\t\t\tService have been ordered, and who have been supplied user identifications and passwords by You (or by Us at Your request).\n\t\t\t\tUsers may include but are not limited to Your employees, consultants, contractors and agents, and third parties with which You transact business.": {
+    "value": "means individuals who are authorized by You to use the Services, for whom subscriptions to a\n\t\t\t\tService have been ordered, and who have been supplied user identifications and passwords by You (or by Us at Your request).\n\t\t\t\tUsers may include but are not limited to Your employees, consultants, contractors and agents, and third parties with which You transact business.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "means online applications and offline software products\n\t\t\t\tthat are provided by entities or individuals other than Us and are clearly identified as such, and that interoperate with the busybusy.com site.": {
+    "value": "means online applications and offline software products\n\t\t\t\tthat are provided by entities or individuals other than Us and are clearly identified as such, and that interoperate with the busybusy.com site.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "means the busybusy.com company described in Section 12.": {
+    "value": "means the busybusy.com company described in Section 12.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "means the online directory of applications that interoperate with the\n\t\t\t\tbusybusy.com site, located within the busybusy.com site or at any successor websites.": {
+    "value": "means the online directory of applications that interoperate with the\n\t\t\t\tbusybusy.com site, located within the busybusy.com site or at any successor websites.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "means the products and services that are available on the busybusy.com site\n\t\t\t\tand made available by Us online. “Services” exclude Non-busybusy.com Applications.": {
+    "value": "means the products and services that are available on the busybusy.com site\n\t\t\t\tand made available by Us online. “Services” exclude Non-busybusy.com Applications.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "means viruses, worms, time bombs, Trojan horses and other harmful or malicious code, files, scripts, agents or programs.": {
+    "value": "means viruses, worms, time bombs, Trojan horses and other harmful or malicious code, files, scripts, agents or programs.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "mins": {
+    "value": "mins",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "month": {
+    "value": "month",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "or call our customer service": {
+    "value": "or call our customer service",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "please contact us at legal@busybusy.com": {
+    "value": "please contact us at legal@busybusy.com",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "projects successfully!": {
+    "value": "projects successfully!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "save": {
+    "value": "save",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "special characters: !@#$%^&*?_~-.": {
+    "value": "special characters: !@#$%^&*?_~-.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "terms & conditions": {
+    "value": "terms & conditions",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "these employees": {
+    "value": "these employees",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "to see how to format your data. The 'projectName' field is required.": {
+    "value": "to see how to format your data. The 'projectName' field is required.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "to see the required headers.": {
+    "value": "to see the required headers.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "to upgrade your account.\n\t\t\tIf you have any questions, please feel free to contact our customer service at 855-287-9287.": {
+    "value": "to upgrade your account.\n\t\t\tIf you have any questions, please feel free to contact our customer service at 855-287-9287.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "to upgrade your subscription.\n\t\t\tIf you have any questions, please feel free to contact our customer service at 855-287-9287.": {
+    "value": "to upgrade your subscription.\n\t\t\tIf you have any questions, please feel free to contact our customer service at 855-287-9287.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "wage x": {
+    "value": "wage x",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "week": {
+    "value": "week",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "year": {
+    "value": "year",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "yr": {
+    "value": "yr",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  }
+}
