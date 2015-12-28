@@ -2,7 +2,7 @@
 
 the purpose of this localizer is to parse the busybusy app and append all the strings to a file that can be translated.
 
-### how to used
+### how to use
 
 the command can be ran in the root folder with **grunt locales:update**
 
