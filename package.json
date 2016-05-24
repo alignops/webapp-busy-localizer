@@ -1,6 +1,19 @@
 {
+  "name": "webapp-busy-localizer",
+  "version": "4.4.0-beta-17",
+  "description": "busybusy webapp string localizer generator",
+  "main": "Gruntfile.js",
+  "repository": "https://github.com/busybusy/webapp-busy-localizer.git",
+  "scripts": {
+	"run": "grunt locales:update"
+  },
+  "author": "busy inc.",
+  "license": "MIT",
   "dependencies": {
     "download": "^4.4.3"
+  },
+  "engines": {
+	"node": ">= 0.10.0"
   },
   "devDependencies": {
     "grunt": "^0.4.5",

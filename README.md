@@ -14,10 +14,12 @@ npm install
 
 ### HOW TO USE
 
-the command can be ran in the root folder with **grunt locales:update**
+The command can be ran in the root folder with **grunt locales:update**
 
-in **Gruntfile.js** the destination of the file created can be specified under *locales-update-dest*
+In **Gruntfile.js** the destination of the file created can be specified under *locales-update-dest*
 
-### original grunt project
+### CONTRIBUTIONS
 
-this projects base code came from a grunt file parser, the url of the grunt project is [ https://www.npmjs.com/package/grunt-locales ](https://www.npmjs.com/package/grunt-locales)
+This projects base code came from a grunt file parser, the url of the grunt project is 
+
+[ https://www.npmjs.com/package/grunt-locales ](https://www.npmjs.com/package/grunt-locales)

@@ -1,0 +1,1754 @@
+{
+  "%@ Hrs": {
+    "value": "%@ Hrs",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "%@ Hrs %@ Mins": {
+    "value": "%@ Hrs %@ Mins",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "%@ Hrs %@ Mins %@ Secs": {
+    "value": "%@ Hrs %@ Mins %@ Secs",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "'Expected Hours Per Week can't be zero'": {
+    "value": "'Expected Hours Per Week can't be zero'",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "/hour": {
+    "value": "/hour",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "/hr": {
+    "value": "/hr",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "/month": {
+    "value": "/month",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "/week": {
+    "value": "/week",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "/year": {
+    "value": "/year",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "1 hour": {
+    "value": "1 hour",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "10 hours": {
+    "value": "10 hours",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "11 hours": {
+    "value": "11 hours",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "12 hours": {
+    "value": "12 hours",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "2 hours": {
+    "value": "2 hours",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "3 hours": {
+    "value": "3 hours",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "4 hours": {
+    "value": "4 hours",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "5 hours": {
+    "value": "5 hours",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "6 hours": {
+    "value": "6 hours",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "7 hours": {
+    "value": "7 hours",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "7th Day Overtime needs to be less hours than Daily Doubletime.": {
+    "value": "7th Day Overtime needs to be less hours than Daily Doubletime.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "8 hours": {
+    "value": "8 hours",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "9 hours": {
+    "value": "9 hours",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "A Plan Must Be Selected!": {
+    "value": "A Plan Must Be Selected!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "A time off entry exists for %@ on this day.": {
+    "value": "A time off entry exists for %@ on this day.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "A time off entry exists for one or more employees on this day.": {
+    "value": "A time off entry exists for one or more employees on this day.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Add Time Off": {
+    "value": "Add Time Off",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "All": {
+    "value": "All",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "All Cost Codes": {
+    "value": "All Cost Codes",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "All Employees": {
+    "value": "All Employees",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "All Locations": {
+    "value": "All Locations",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "All Projects": {
+    "value": "All Projects",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "All errors must be fixed before moving on": {
+    "value": "All errors must be fixed before moving on",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "All errors must be fixed before moving on.": {
+    "value": "All errors must be fixed before moving on.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "All time": {
+    "value": "All time",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "An error occurred! Please try again later.": {
+    "value": "An error occurred! Please try again later.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Archive": {
+    "value": "Archive",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Archived": {
+    "value": "Archived",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Basic": {
+    "value": "Basic",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Beginning": {
+    "value": "Beginning",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Bi-Weekly": {
+    "value": "Bi-Weekly",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Bi-weekly": {
+    "value": "Bi-weekly",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Both": {
+    "value": "Both",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Break %@": {
+    "value": "Break %@",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Break conflict resolution": {
+    "value": "Break conflict resolution",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Break deleted": {
+    "value": "Break deleted",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Break deleted by conflict resolution": {
+    "value": "Break deleted by conflict resolution",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Break end": {
+    "value": "Break end",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Break end @ ": {
+    "value": "Break end @ ",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Break end location": {
+    "value": "Break end location",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Break start": {
+    "value": "Break start",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Break start @ ": {
+    "value": "Break start @ ",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Break start location": {
+    "value": "Break start location",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Breaks": {
+    "value": "Breaks",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Budget vs Actual": {
+    "value": "Budget vs Actual",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "California": {
+    "value": "California",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "California Settings": {
+    "value": "California Settings",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Cancel": {
+    "value": "Cancel",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Card Number cannot be blank.": {
+    "value": "Card Number cannot be blank.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Card Number is Invalid. Please check your number and try again.": {
+    "value": "Card Number is Invalid. Please check your number and try again.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Card was declined. Please check your card and try again.": {
+    "value": "Card was declined. Please check your card and try again.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Choose File": {
+    "value": "Choose File",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Choose a file to upload.": {
+    "value": "Choose a file to upload.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Clock In": {
+    "value": "Clock In",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Clock In At": {
+    "value": "Clock In At",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Clock Out": {
+    "value": "Clock Out",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Clock Out At": {
+    "value": "Clock Out At",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Clock in": {
+    "value": "Clock in",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Clock in at": {
+    "value": "Clock in at",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Clock in at location": {
+    "value": "Clock in at location",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Clock in location": {
+    "value": "Clock in location",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Clock out": {
+    "value": "Clock out",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Clock out at": {
+    "value": "Clock out at",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Clock out at location": {
+    "value": "Clock out at location",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Clock out location": {
+    "value": "Clock out location",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Clocked In @ ": {
+    "value": "Clocked In @ ",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Clocked Out @ ": {
+    "value": "Clocked Out @ ",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Close": {
+    "value": "Close",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Conflict resolution": {
+    "value": "Conflict resolution",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Cost Code": {
+    "value": "Cost Code",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Cost Code Job Costing": {
+    "value": "Cost Code Job Costing",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Custom": {
+    "value": "Custom",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Custom Settings": {
+    "value": "Custom Settings",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Daily": {
+    "value": "Daily",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Daily By Project": {
+    "value": "Daily By Project",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Daily Doubletime must be greater than daily overtime!": {
+    "value": "Daily Doubletime must be greater than daily overtime!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Daily Overtime needs to be less hours than Daily Doubletime.": {
+    "value": "Daily Overtime needs to be less hours than Daily Doubletime.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Delete": {
+    "value": "Delete",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Deleted": {
+    "value": "Deleted",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Deleted by conflict resolution": {
+    "value": "Deleted by conflict resolution",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Deleted successfuly": {
+    "value": "Deleted successfuly",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Deleting Position": {
+    "value": "Deleting Position",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Deleting note card...": {
+    "value": "Deleting note card...",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Deleting...": {
+    "value": "Deleting...",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Description": {
+    "value": "Description",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Double Time": {
+    "value": "Double Time",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Drag a file or click here to change your photo.": {
+    "value": "Drag a file or click here to change your photo.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Drag a file or click here to upload a photo.": {
+    "value": "Drag a file or click here to upload a photo.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Drag files or click here to change your photos.": {
+    "value": "Drag files or click here to change your photos.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Drag files or click here to upload a photos.": {
+    "value": "Drag files or click here to upload a photos.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Drag files or click here to upload files": {
+    "value": "Drag files or click here to upload files",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Duplicate": {
+    "value": "Duplicate",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Edit": {
+    "value": "Edit",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Edit No Changes Made": {
+    "value": "Edit No Changes Made",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Edited break": {
+    "value": "Edited break",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Email must be a vaild email address.": {
+    "value": "Email must be a vaild email address.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Employee": {
+    "value": "Employee",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Employee Id": {
+    "value": "Employee Id",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Employee Job Costing": {
+    "value": "Employee Job Costing",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Employee Payroll Report": {
+    "value": "Employee Payroll Report",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Employee Report": {
+    "value": "Employee Report",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Employees": {
+    "value": "Employees",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Est. Cost": {
+    "value": "Est. Cost",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Every %@": {
+    "value": "Every %@",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Every other %@": {
+    "value": "Every other %@",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Exp. Year and Exp. Month are required to update a card.": {
+    "value": "Exp. Year and Exp. Month are required to update a card.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "False": {
+    "value": "False",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "File Name": {
+    "value": "File Name",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "First Name is required": {
+    "value": "First Name is required",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Follow Company Settings": {
+    "value": "Follow Company Settings",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Friday": {
+    "value": "Friday",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Full Report": {
+    "value": "Full Report",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "General Liability": {
+    "value": "General Liability",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Go off Break": {
+    "value": "Go off Break",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Go on Break": {
+    "value": "Go on Break",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "HOL": {
+    "value": "HOL",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Holiday": {
+    "value": "Holiday",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Hourly": {
+    "value": "Hourly",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Importing cost codes %@%": {
+    "value": "Importing cost codes %@%",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Importing employees %@%": {
+    "value": "Importing employees %@%",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Importing projects": {
+    "value": "Importing projects",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Job Costing": {
+    "value": "Job Costing",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Labor Burden": {
+    "value": "Labor Burden",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Last Name is required": {
+    "value": "Last Name is required",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Loading...": {
+    "value": "Loading...",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Manual break": {
+    "value": "Manual break",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Manual entry": {
+    "value": "Manual entry",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Monday": {
+    "value": "Monday",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Monthly": {
+    "value": "Monthly",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Move to Group": {
+    "value": "Move to Group",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "NOW": {
+    "value": "NOW",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Name": {
+    "value": "Name",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Name is required to update a card.": {
+    "value": "Name is required to update a card.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "New Time Entry": {
+    "value": "New Time Entry",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "No": {
+    "value": "No",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "No Cost Codes Found": {
+    "value": "No Cost Codes Found",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "No Projects Found": {
+    "value": "No Projects Found",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "No Results Found": {
+    "value": "No Results Found",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "No changes were made": {
+    "value": "No changes were made",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "No payroll items set or changed!": {
+    "value": "No payroll items set or changed!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "None": {
+    "value": "None",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "O.T. Hours (x1.5)": {
+    "value": "O.T. Hours (x1.5)",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "O.T. Hours (x2)": {
+    "value": "O.T. Hours (x2)",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "OTH": {
+    "value": "OTH",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Off": {
+    "value": "Off",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Other": {
+    "value": "Other",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "PTO": {
+    "value": "PTO",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Paid": {
+    "value": "Paid",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Password is invalid": {
+    "value": "Password is invalid",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Password is invalid.": {
+    "value": "Password is invalid.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Password must contain at a number, a letter, and be more than 6 characters long.": {
+    "value": "Password must contain at a number, a letter, and be more than 6 characters long.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Passwords do not match": {
+    "value": "Passwords do not match",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Pay period type not found!": {
+    "value": "Pay period type not found!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Payroll": {
+    "value": "Payroll",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Personal": {
+    "value": "Personal",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Please fill out all required fields": {
+    "value": "Please fill out all required fields",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Please fill out all required fields.": {
+    "value": "Please fill out all required fields.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Please fill out the required fields.": {
+    "value": "Please fill out the required fields.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Please pick a different plan or archive": {
+    "value": "Please pick a different plan or archive",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Please select how many employees your company has.": {
+    "value": "Please select how many employees your company has.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Please set the expiration date.": {
+    "value": "Please set the expiration date.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Position must be set before saving": {
+    "value": "Position must be set before saving",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Project": {
+    "value": "Project",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Project Employees Report": {
+    "value": "Project Employees Report",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Project Job Costing": {
+    "value": "Project Job Costing",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Project Payroll Report": {
+    "value": "Project Payroll Report",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Project Subprojects Report": {
+    "value": "Project Subprojects Report",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Project Time Sheet": {
+    "value": "Project Time Sheet",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Reg Hours": {
+    "value": "Reg Hours",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Regular Time": {
+    "value": "Regular Time",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "SIC": {
+    "value": "SIC",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Saturday": {
+    "value": "Saturday",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Save": {
+    "value": "Save",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Save and Close": {
+    "value": "Save and Close",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Saved ": {
+    "value": "Saved ",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Saved %@ cost codes successfully!": {
+    "value": "Saved %@ cost codes successfully!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Saved employees successfully!": {
+    "value": "Saved employees successfully!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Saving": {
+    "value": "Saving",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Search": {
+    "value": "Search",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Select": {
+    "value": "Select",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Semi-Monthly": {
+    "value": "Semi-Monthly",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Semi-monthly": {
+    "value": "Semi-monthly",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Server clock out": {
+    "value": "Server clock out",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Seventh Day Doubletime must be less than daily doubletime!": {
+    "value": "Seventh Day Doubletime must be less than daily doubletime!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Sick": {
+    "value": "Sick",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Something went wrong creating your account. Please try again.": {
+    "value": "Something went wrong creating your account. Please try again.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Something went wrong, Please try again later.": {
+    "value": "Something went wrong, Please try again later.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Something went wrong, please try again later.": {
+    "value": "Something went wrong, please try again later.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Something went wrong. Please try again.": {
+    "value": "Something went wrong. Please try again.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Standard": {
+    "value": "Standard",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Standard Settings": {
+    "value": "Standard Settings",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Start Time": {
+    "value": "Start Time",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Stop Time": {
+    "value": "Stop Time",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Subprojects": {
+    "value": "Subprojects",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Successfully Saved": {
+    "value": "Successfully Saved",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Sunday": {
+    "value": "Sunday",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Switch": {
+    "value": "Switch",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "The %@ and %@ of each month": {
+    "value": "The %@ and %@ of each month",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "The %@ of each month": {
+    "value": "The %@ of each month",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "The Admin Position cannot be deleted.": {
+    "value": "The Admin Position cannot be deleted.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "The default card cannot be deleted": {
+    "value": "The default card cannot be deleted",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "The email you provided was not associated with any accounts on busybusy.": {
+    "value": "The email you provided was not associated with any accounts on busybusy.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "The passwords don't match!": {
+    "value": "The passwords don't match!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "The system has hit an error. Please try again later.": {
+    "value": "The system has hit an error. Please try again later.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "The ticket hash has already been used. Contact your account admin to get a new invatation.": {
+    "value": "The ticket hash has already been used. Contact your account admin to get a new invatation.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "The ticket hash has already been used. You must submit a new password reset request.": {
+    "value": "The ticket hash has already been used. You must submit a new password reset request.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "The username or password is incorrect!": {
+    "value": "The username or password is incorrect!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "The username was not found in the system.": {
+    "value": "The username was not found in the system.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "The wage change failed to delete. Please try again later.": {
+    "value": "The wage change failed to delete. Please try again later.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "There was a problem deleting this note card.": {
+    "value": "There was a problem deleting this note card.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "There was a problem processing your payment. Please check your card info and try again.": {
+    "value": "There was a problem processing your payment. Please check your card info and try again.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "There was an error duplicating the project": {
+    "value": "There was an error duplicating the project",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "There was an error saving the budget! Please try again later.": {
+    "value": "There was an error saving the budget! Please try again later.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "There was an error starting your subscription!": {
+    "value": "There was an error starting your subscription!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "There was an error submitting your changes! Please try again.": {
+    "value": "There was an error submitting your changes! Please try again.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "There was an error while verifying your account. Please call customer service at 1-855-287-9287.": {
+    "value": "There was an error while verifying your account. Please call customer service at 1-855-287-9287.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "There was an error. Please try again at a later tine.": {
+    "value": "There was an error. Please try again at a later tine.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "This file has more employees than your subscription allows.": {
+    "value": "This file has more employees than your subscription allows.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "This url has expired or the ticket has already been used to verify this email!": {
+    "value": "This url has expired or the ticket has already been used to verify this email!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "This username is taken. Please choose another.": {
+    "value": "This username is taken. Please choose another.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Thursday": {
+    "value": "Thursday",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Time Cards": {
+    "value": "Time Cards",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Time Off": {
+    "value": "Time Off",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Time and a Half": {
+    "value": "Time and a Half",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Time entry 1": {
+    "value": "Time entry 1",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Time entry 2": {
+    "value": "Time entry 2",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Time entry was started in the future:": {
+    "value": "Time entry was started in the future:",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Total Budget and Man Hours must be whole numbers.": {
+    "value": "Total Budget and Man Hours must be whole numbers.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Total Hours": {
+    "value": "Total Hours",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "True": {
+    "value": "True",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Tuesday": {
+    "value": "Tuesday",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Unarchive": {
+    "value": "Unarchive",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Unassigned": {
+    "value": "Unassigned",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Ungrouped": {
+    "value": "Ungrouped",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Unpaid": {
+    "value": "Unpaid",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Upload File": {
+    "value": "Upload File",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Use Pay Period Dates": {
+    "value": "Use Pay Period Dates",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Username is required": {
+    "value": "Username is required",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Username must be at least 6 characters with no spaces": {
+    "value": "Username must be at least 6 characters with no spaces",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Username must be at least 6 characters with no spaces.": {
+    "value": "Username must be at least 6 characters with no spaces.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "VAC": {
+    "value": "VAC",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Vacation": {
+    "value": "Vacation",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "View Location": {
+    "value": "View Location",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Wage": {
+    "value": "Wage",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "We sent you an email with a link to reset your password.": {
+    "value": "We sent you an email with a link to reset your password.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Wednesday": {
+    "value": "Wednesday",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Weekly": {
+    "value": "Weekly",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Workers' Compensation": {
+    "value": "Workers' Compensation",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Yearly": {
+    "value": "Yearly",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Yes": {
+    "value": "Yes",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "You can only view the Admin Position. Changes will not be saved.": {
+    "value": "You can only view the Admin Position. Changes will not be saved.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "You can't save an overtime period for more than 90 days ago.": {
+    "value": "You can't save an overtime period for more than 90 days ago.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "You cannot delete the default card": {
+    "value": "You cannot delete the default card",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "You must accept the terms and conditions!": {
+    "value": "You must accept the terms and conditions!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "You must fill in the required fields": {
+    "value": "You must fill in the required fields",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "You must pick the day of the month your pay period starts on": {
+    "value": "You must pick the day of the month your pay period starts on",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "You must pick the day of the week your pay period starts on": {
+    "value": "You must pick the day of the week your pay period starts on",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "You must pick the day of your next pay period.": {
+    "value": "You must pick the day of your next pay period.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "You must pick the first day of the month your pay period starts on": {
+    "value": "You must pick the first day of the month your pay period starts on",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "You must pick the second day of the month your pay period starts on": {
+    "value": "You must pick the second day of the month your pay period starts on",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "You must provide a company name!": {
+    "value": "You must provide a company name!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "You must provide a first name!": {
+    "value": "You must provide a first name!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "You must provide a last name!": {
+    "value": "You must provide a last name!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "You must provide a postal code!": {
+    "value": "You must provide a postal code!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "You must provide a project title.": {
+    "value": "You must provide a project title.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "You must provide a title for this insurance class": {
+    "value": "You must provide a title for this insurance class",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "You must provide a username and password!": {
+    "value": "You must provide a username and password!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "You must provide a valid email": {
+    "value": "You must provide a valid email",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "You must provide a valid phone number with area code!": {
+    "value": "You must provide a valid phone number with area code!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "You must provide an email to reset your password.": {
+    "value": "You must provide an email to reset your password.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "You must select a later date": {
+    "value": "You must select a later date",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "You must select a later date!": {
+    "value": "You must select a later date!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "You must select an insurance type": {
+    "value": "You must select an insurance type",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "You must select how often you process payroll": {
+    "value": "You must select how often you process payroll",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "You must select when you workweek begins": {
+    "value": "You must select when you workweek begins",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Your current employee count is above the limit for this subscription.": {
+    "value": "Your current employee count is above the limit for this subscription.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "Your passwords do not match!": {
+    "value": "Your passwords do not match!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "and try again.": {
+    "value": "and try again.",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "hrs ": {
+    "value": "hrs ",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "less than $1": {
+    "value": "less than $1",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "less than 1 hour": {
+    "value": "less than 1 hour",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "mins": {
+    "value": "mins",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  },
+  "projects successfully!": {
+    "value": "projects successfully!",
+    "files": [
+      "./../busybusy-web-app/dist/assets/busy-app.js"
+    ]
+  }
+}
