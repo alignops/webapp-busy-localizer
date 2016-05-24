@@ -26,11 +26,11 @@ module.exports = function(grunt) {
 		},
 		buildJS: {
 			src: 'locales/**/i18n.json',
-			dest: 'locales/{locale}/{locale}.js'
+			dest: 'locales/{locale}.js'
 		},
 		buildJSON: {
 			src: 'locales/**/i18n.json',
-			dest: 'locales/{locale}/{locale}.json'
+			dest: 'locales/{locale}.json'
 		},
 	};
 
