@@ -1,8 +1,18 @@
 ## busybusy localizer
 
-the purpose of this localizer is to parse the busybusy app and append all the strings to a file that can be translated.
+The purpose of this localizer is to parse the busybusy app and append all the strings to a file that can be translated.
 
-### how to use
+### INSTALL
+
+Installation of the busybusy localizer depends on `nodejs` and `npm`.
+
+Run the following commands to install the node packages:
+```
+npm install -g grunt
+npm install
+```
+
+### HOW TO USE
 
 the command can be ran in the root folder with **grunt locales:update**
 
