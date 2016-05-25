@@ -19,6 +19,7 @@ module.exports = function(grunt) {
 			localizeAttributes: getWithDefault(CONFIG.localizeAttributes, ['localize']),
 			localizeMethodIdentifiers: getWithDefault(CONFIG.localizeMethodIdentifiers, ['localize']),
 			htmlFileRegExp: getWithDefault(CONFIG.htmlFileRegExp, /\.html$/),
+			hbsFileRegExp: getWithDefault(CONFIG.hbsFileRegExp, /\.hbs$/),
 		},
 		update: {
 			src: CONFIG.srcFiles,
@@ -26,12 +27,17 @@ module.exports = function(grunt) {
 		},
 		buildJS: {
 			src: 'locales/**/i18n.json',
-			dest: 'locales/{locale}.js'
+			dest: 'locales/{locale}/i18n-prod.js'
 		},
 		buildJSON: {
 			src: 'locales/**/i18n.json',
-			dest: 'locales/{locale}.json'
+			dest: 'locales/{locale}/i18n-prod.json'
 		},
+		diffJS: {
+			src: 'locales/**/i18n-prod.js',
+			diff: CONFIG.diffFiles,
+			dest: 'locales/{locale}/i18n-diff.json'
+		}
 	};
 
 	// Project configuration.
@@ -41,12 +47,22 @@ module.exports = function(grunt) {
 	});
 
 	// Load grunt locales
-	grunt.loadNpmTasks('grunt-locales');
+	grunt.loadNpmTasks('ember-grunt-locales');
 	grunt.loadTasks('tasks');
 
-	grunt.registerTask('default', ['update', 'buildJS', 'buildJSON']);
+	grunt.registerTask('default', ['clean', 'update', 'buildJS', 'buildJSON', 'diff']);
 
 	grunt.registerTask('update', ['locales:update']);
 	grunt.registerTask('buildJS', ['localizer:buildJS']);
 	grunt.registerTask('buildJSON', ['localizer:buildJSON']);
+	grunt.registerTask('diff', ['localizer:diffJS']);
+
+	grunt.registerTask('clean', 'Deleting locales', function() {
+
+		//remove locales
+		if(grunt.file.isDir('./locales'))
+		{
+			grunt.file.delete('./locales');
+		}
+	});
 };

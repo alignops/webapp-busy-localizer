@@ -23,6 +23,8 @@ module.exports = function(grunt)
             localePlaceholder: '{locale}',
             localeName: 'i18n',
 		});
+
+		this.grunt = grunt;
 		this.task = task;
 		this.done = task.async();
 
@@ -45,9 +47,14 @@ module.exports = function(grunt)
             });
         };
 
-		this.getDestinationFilePath = function ()
+		this.getDirName = function()
 		{
-            var dest = this.task.files.length && this.task.files[0].dest;
+			return __dirname;
+		};
+
+		this.getFilePath = function (type)
+		{
+            var dest = this.task.files.length && this.task.files[0][type];
             if (!dest) {
                 grunt.fail.warn('Missing destination file path.');
                 return this.done();
@@ -71,61 +78,7 @@ module.exports = function(grunt)
             return locale;
         };
 
-		this.buildJS = function()
-		{
-			var that = this;
-            var dest = this.getDestinationFilePath();
-            this.getSourceFiles().forEach(function(file)
-			{
-				var locale = that.getLocaleFromPath(file);
-                var destFile = dest.replace(that.options.localePlaceholder, locale);
-                var messages = grunt.file.readJSON(file);
-                var translationsMap = {};
-                Object.keys(messages).sort().forEach(function (key)
-				{
-                    var value = messages[key].value;
-					translationsMap[key] = value;
-                });
-
-				var templateString = "module.exports = " + JSON.stringify(translationsMap) + ";";
-					templateString = templateString.replace(/","/g, '",\n\t"').replace(/{/, '{\n\t').replace(/}/, '\n}');
-
-				grunt.log.writeln('Parsed locales from ' + file.cyan + '.');
-				grunt.file.write(destFile, templateString);
-                grunt.log.writeln('Updated locale file ' + destFile.cyan + '.');
-            });
-
-            this.done();
-		};
-
-		this.buildJSON = function()
-		{
-			var that = this;
-            var dest = this.getDestinationFilePath();
-            this.getSourceFiles().forEach(function(file)
-			{
-				var locale = that.getLocaleFromPath(file);
-                var destFile = dest.replace(that.options.localePlaceholder, locale);
-                var messages = grunt.file.readJSON(file);
-                var translationsMap = {};
-                Object.keys(messages).sort().forEach(function (key)
-				{
-                    var value = messages[key].value;
-					translationsMap[key] = value;
-                });
-
-				var templateString = JSON.stringify(translationsMap);
-					templateString = templateString.replace(/","/g, '",\n\t"').replace(/{/, '{\n\t').replace(/}/, '\n}');
-
-					grunt.log.writeln('Parsed locales from ' + file.cyan + '.');
-				grunt.file.write(destFile, templateString);
-                grunt.log.writeln('Updated locale file ' + destFile.cyan + '.');
-            });
-
-            this.done();
-		};
-
-        this[task.target].apply(this);
+        require('../lib/' + this.task.target)(this);
 	}
 
 	grunt.registerMultiTask('localizer', 'busybusy localized files', function()

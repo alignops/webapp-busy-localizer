@@ -17,6 +17,6 @@
   },
   "devDependencies": {
     "grunt": "^0.4.5",
-    "grunt-locales": "^7.0.4"
+    "ember-grunt-locales": "https://github.com/sstephens/ember-grunt-locales.git"
   }
 }
